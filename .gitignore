@@ -1,4 +1,4 @@
 .vscode
 
 /torch/runs/
-/training_data/classification_training_data/
+/training_data/classification_training_data/*
