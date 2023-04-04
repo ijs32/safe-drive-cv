@@ -8,6 +8,7 @@ opencv-python = "*"
 numpy = "*"
 torch = "==1.13.1"
 torchvision = "*"
+tensorboard = "*"
 
 [dev-packages]
 
