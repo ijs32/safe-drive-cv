@@ -109,3 +109,5 @@ ontop of the model, it has a file `./torch/dataset.py` which includes a dataset 
 `./training_data` contains all the photos i've taken and processed.
 `./training_data/classification_training_data/` is empty because I can't store gigabytes of pictures on github. 
 `./training_data/segmentation_training_data` 500 pictures in the folder `/segmentation_images` along with an annotations file. this annotations file was created using [CVAT](https://www.cvat.ai/) and contains the coordinates for the boxes I drew around the phone. this will be used to train the model to determine where in the photo the phone is.
+
+`./capture.py` is used to take pictures using openCV. the file also adds noise and random vertical and horizontal flips.
