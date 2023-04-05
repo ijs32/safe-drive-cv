@@ -18,7 +18,7 @@ now we can get to the things needed specifically for this project
 
 3. Install pyenv
 
-pyenv is a python version manager. installing python versions on macos is known to be a pain in the ass, pyenv makes the process much less annoying.
+pyenv is a python version manager. installing python versions on macos is known to be a pain in the ass, [pyenv](https://github.com/pyenv/pyenv) makes the process much less annoying.
 Now that you have homebrew, installing pyenv will be super simple, just run `brew install pyenv`
 
 Next you need to figure out what kind of shell your computer is running. Not super important to understand what a shell is but its basically the language your terminal uses. newer macs use ZSH and older ones usually use BASH, im not sure when the cutoff is but to determine what yours is using just run `which $SHELL`.
@@ -57,9 +57,9 @@ in this project im using python version 3.9.9. its pretty new while not being su
 to install it, run the command `pyenv install 3.9.9`. Once the installation is finished, run the command `pyenv global 3.9.9`.
 now run `python --version`, you should get `Python 3.9.9`. if not try closing your terminal and reopening. still broken? idk man good luck
 
-5. installing pipenv
+5. installing Pipenv
 
-This is the final installation step. pipenv creates a virtual environment that makes tracking all the python libraries you need super easy, it also makes it easy for you guys to make sure you're using all the same library versions as the ones used in this project. 
+This is the final installation step. [Pipenv](https://docs.pipenv.org/) creates a virtual environment that makes tracking all the python libraries you need super easy, it also makes it easy for you guys to make sure you're using all the same library versions as the ones used in this project. 
 
 To get pipenv just run `pip install pipenv`. 
 
@@ -96,3 +96,16 @@ and you're done, you are now in the project folder and everything is installed. 
 ## Suggestions
 
 I would suggest opening your browser and searching for VScode. its the easiest and most used code editor. Once its installed, open it and press `Command + Shift + P` this will open a little search bar at the top, type command `Shell command` and select the install option. Now, when you open your terminal and `cd DriveMate/future-NSA-backdoor` to this project, you can type the command `code .` to open the folder in VScode. Its good to learn to use the terminal because you'll be using it to run any files with `python filename.py`.
+
+## Short Description of Project Structure
+
+`./torch` contains all the files regarding the actual model.
+its very much a work in progress and the current model (`./torch/model.py`) is not going to be very useful to look at. 
+ontop of the model, it has a file `./torch/dataset.py` which includes a dataset class `ImgDataset` which is used during model training and testing to load images. 
+`./torch/helper.py` contains a few functions used during training and testing. 
+`./torch/detect_image.py` is used for testing the model after it has been trained and saved. 
+`./torch/train.py` where the training happens.
+
+`./training_data` contains all the photos i've taken and processed.
+`./training_data/classification_training_data/` is empty because I can't store gigabytes of pictures on github. 
+`./training_data/segmentation_training_data` 500 pictures in the folder `/segmentation_images` along with an annotations file. this annotations file was created using [CVAT](https://www.cvat.ai/) and contains the coordinates for the boxes I drew around the phone. this will be used to train the model to determine where in the photo the phone is.
