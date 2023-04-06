@@ -54,595 +54,595 @@
     <dumped>2023-04-04 22:40:55.695381+00:00</dumped>
   </meta>
   <image id="0" name="imessage_frame106.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="147.44,149.03;256.00,86.08;256.00,149.01;167.89,188.59" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="147.44,149.03;256.00,86.08;256.00,149.01;167.89,188.59" z_order="0">
     </polygon>
   </image>
   <image id="1" name="imessage_frame111.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="53.81,223.54;0.00,117.85;0.00,66.02;6.30,27.70;108.54,224.86" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="53.81,223.54;0.00,117.85;0.00,66.02;6.30,27.70;108.54,224.86" z_order="0">
     </polygon>
   </image>
   <image id="2" name="imessage_frame112.jpg" width="256" height="455">
   </image>
   <image id="3" name="imessage_frame114.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="153.38,240.69;226.58,226.84;256.00,173.62;256.00,93.96;255.59,73.85" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="153.38,240.69;226.58,226.84;256.00,173.62;256.00,93.96;255.59,73.85" z_order="0">
     </polygon>
   </image>
   <image id="4" name="imessage_frame120.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="136.89,261.79;174.48,226.18;0.00,47.79;0.00,95.31;1.05,118.69" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="136.89,261.79;174.48,226.18;0.00,47.79;0.00,95.31;1.05,118.69" z_order="0">
     </polygon>
   </image>
   <image id="5" name="imessage_frame123.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="101.30,292.80;253.61,383.78;256.00,424.39;256.00,450.25;134.26,389.06" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="101.30,292.80;253.61,383.78;256.00,424.39;256.00,450.25;134.26,389.06" z_order="0">
     </polygon>
   </image>
   <image id="6" name="imessage_frame131.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="177.12,167.49;125.68,116.06;164.59,0.66;225.26,8.57" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="177.12,167.49;125.68,116.06;164.59,0.66;225.26,8.57" z_order="0">
     </polygon>
   </image>
   <image id="7" name="imessage_frame132.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.39,65.28;148.10,144.41;99.97,13.85;32.71,0.66" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,65.28;148.10,144.41;99.97,13.85;32.71,0.66" z_order="0">
     </polygon>
   </image>
   <image id="8" name="imessage_frame134.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="84.14,369.27;111.18,194.53;180.42,285.53;159.31,453.68" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="84.14,369.27;111.18,194.53;180.42,285.53;159.31,453.68" z_order="0">
     </polygon>
   </image>
   <image id="9" name="imessage_frame140.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="139.53,180.68;256.00,256.38;256.00,267.91;245.70,314.54;107.88,217.61" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="139.53,180.68;256.00,256.38;256.00,267.91;245.70,314.54;107.88,217.61" z_order="0">
     </polygon>
   </image>
   <image id="10" name="imessage_frame141.jpg" width="256" height="455">
   </image>
   <image id="11" name="imessage_frame144.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="121.73,280.91;40.62,7.25;109.84,0.00;109.86,0.00;202.84,279.59" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="121.73,280.91;40.62,7.25;109.84,0.00;109.86,0.00;202.84,279.59" z_order="0">
     </polygon>
   </image>
   <image id="12" name="imessage_frame145.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="158.00,257.20;0.00,40.60;0.00,40.01;38.64,9.23;194.26,226.84" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="158.00,257.20;0.00,40.60;0.00,40.01;38.64,9.23;194.26,226.84" z_order="0">
     </polygon>
   </image>
   <image id="13" name="imessage_frame149.jpg" width="256" height="455">
   </image>
   <image id="14" name="imessage_frame150.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="156.68,116.72;256.00,42.88;256.00,115.38;181.73,158.92" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="156.68,116.72;256.00,42.88;256.00,115.38;181.73,158.92" z_order="0">
     </polygon>
   </image>
   <image id="15" name="imessage_frame153.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="60.40,280.25;149.42,320.48;159.97,423.35;67.00,381.80" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="60.40,280.25;149.42,320.48;159.97,423.35;67.00,381.80" z_order="0">
     </polygon>
   </image>
   <image id="16" name="imessage_frame155.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="1.10,329.00;176.46,78.47;115.79,34.95;0.39,221.56" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.10,329.00;176.46,78.47;115.79,34.95;0.39,221.56" z_order="0">
     </polygon>
   </image>
   <image id="17" name="imessage_frame162.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="115.13,240.03;91.39,200.46;241.74,24.40;256.00,71.92;256.00,87.58" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="115.13,240.03;91.39,200.46;241.74,24.40;256.00,71.92;256.00,87.58" z_order="0">
     </polygon>
   </image>
   <image id="18" name="imessage_frame167.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="101.29,185.96;256.00,55.94;256.00,109.75;255.59,120.01;121.73,231.45" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="101.29,185.96;256.00,55.94;256.00,109.75;255.59,120.01;121.73,231.45" z_order="0">
     </polygon>
   </image>
   <image id="19" name="imessage_frame17.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="209.43,250.58;163.93,269.04;225.92,432.58;256.00,416.91;256.00,356.60" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="209.43,250.58;163.93,269.04;225.92,432.58;256.00,416.91;256.00,356.60" z_order="0">
     </polygon>
   </image>
   <image id="20" name="imessage_frame172.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="150.74,280.91;205.47,269.04;254.27,425.98;202.18,441.15" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="150.74,280.91;205.47,269.04;254.27,425.98;202.18,441.15" z_order="0">
     </polygon>
   </image>
   <image id="21" name="imessage_frame183.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="162.61,212.33;221.96,179.36;123.05,0.00;123.04,0.00;71.61,23.74" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="162.61,212.33;221.96,179.36;123.05,0.00;123.04,0.00;71.61,23.74" z_order="0">
     </polygon>
   </image>
   <image id="22" name="imessage_frame188.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="63.70,211.01;95.35,160.90;0.00,100.57;-0.00,171.28" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="63.70,211.01;95.35,160.90;0.00,100.57;-0.00,171.28" z_order="0">
     </polygon>
   </image>
   <image id="23" name="imessage_frame189.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="135.58,235.41;166.57,190.57;51.17,12.53;6.33,32.97" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="135.58,235.41;166.57,190.57;51.17,12.53;6.33,32.97" z_order="0">
     </polygon>
   </image>
   <image id="24" name="imessage_frame199.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="199.54,212.99;143.49,196.51;208.77,13.85;256.00,31.56;256.00,32.45" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="199.54,212.99;143.49,196.51;208.77,13.85;256.00,31.56;256.00,32.45" z_order="0">
     </polygon>
   </image>
   <image id="25" name="imessage_frame20.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="153.38,232.11;128.98,193.21;256.00,109.18;256.00,167.65" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="153.38,232.11;128.98,193.21;256.00,109.18;256.00,167.65" z_order="0">
     </polygon>
   </image>
   <image id="26" name="imessage_frame200.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="81.50,182.66;11.60,23.08;62.30,11.90;121.10,135.80" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="81.50,182.66;11.60,23.08;62.30,11.90;121.10,135.80" z_order="0">
     </polygon>
   </image>
   <image id="27" name="imessage_frame202.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="1.71,364.00;130.30,237.39;88.76,201.12;0.39,293.44" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.71,364.00;130.30,237.39;88.76,201.12;0.39,293.44" z_order="0">
     </polygon>
   </image>
   <image id="28" name="imessage_frame204.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.00,329.05;100.63,185.30;144.15,214.31;0.00,426.91" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,329.05;100.63,185.30;144.15,214.31;0.00,426.91" z_order="0">
     </polygon>
   </image>
   <image id="29" name="imessage_frame21.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="93.37,269.04;127.00,232.77;249.00,424.01;199.54,445.77" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="93.37,269.04;127.00,232.77;249.00,424.01;199.54,445.77" z_order="0">
     </polygon>
   </image>
   <image id="30" name="imessage_frame212.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="72.27,208.38;169.21,452.36;212.73,423.35;113.81,187.27" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="72.27,208.38;169.21,452.36;212.73,423.35;113.81,187.27" z_order="0">
     </polygon>
   </image>
   <image id="31" name="imessage_frame215.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="32.71,248.60;84.80,242.01;126.34,453.68;76.89,451.04" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="32.71,248.60;84.80,242.01;126.34,453.68;76.89,451.04" z_order="0">
     </polygon>
   </image>
   <image id="32" name="imessage_frame221.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="135.58,203.76;176.46,230.14;123.71,453.02;70.95,451.04" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="135.58,203.76;176.46,230.14;123.71,453.02;70.95,451.04" z_order="0">
     </polygon>
   </image>
   <image id="33" name="imessage_frame226.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="1.71,269.70;140.19,191.23;171.84,234.75;1.05,331.69" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.71,269.70;140.19,191.23;171.84,234.75;1.05,331.69" z_order="0">
     </polygon>
   </image>
   <image id="34" name="imessage_frame230.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="1.05,282.23;158.65,153.64;191.63,189.25;0.39,346.85" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.05,282.23;158.65,153.64;191.63,189.25;0.39,346.85" z_order="0">
     </polygon>
   </image>
   <image id="35" name="imessage_frame234.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="43.92,409.50;119.10,192.50;167.23,201.12;84.80,429.28" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="43.92,409.50;119.10,192.50;167.23,201.12;84.80,429.28" z_order="0">
     </polygon>
   </image>
   <image id="36" name="imessage_frame244.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="82.20,269.00;52.49,20.44;102.60,31.65;122.39,273.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="82.20,269.00;52.49,20.44;102.60,31.65;122.39,273.00" z_order="0">
     </polygon>
   </image>
   <image id="37" name="imessage_frame248.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="115.79,208.38;136.23,0.00;136.27,0.00;186.35,2.64;159.31,211.67" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="115.79,208.38;136.23,0.00;136.27,0.00;186.35,2.64;159.31,211.67" z_order="0">
     </polygon>
   </image>
   <image id="38" name="imessage_frame25.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="157.34,304.65;159.97,377.19;247.68,434.56;256.00,374.37;256.00,372.40" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="157.34,304.65;159.97,377.19;247.68,434.56;256.00,374.37;256.00,372.40" z_order="0">
     </polygon>
   </image>
   <image id="39" name="imessage_frame252.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="86.78,148.37;181.08,377.85;229.87,350.81;122.39,125.95" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="86.78,148.37;181.08,377.85;229.87,350.81;122.39,125.95" z_order="0">
     </polygon>
   </image>
   <image id="40" name="imessage_frame255.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="68.97,253.88;109.20,224.20;0.00,96.69;0.00,142.78;0.39,162.88" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="68.97,253.88;109.20,224.20;0.00,96.69;0.00,142.78;0.39,162.88" z_order="0">
     </polygon>
   </image>
   <image id="41" name="imessage_frame262.jpg" width="256" height="455">
   </image>
   <image id="42" name="imessage_frame265.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="65.02,277.61;199.54,86.38;241.08,125.95;94.03,319.16" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="65.02,277.61;199.54,86.38;241.08,125.95;94.03,319.16" z_order="0">
     </polygon>
   </image>
   <image id="43" name="imessage_frame266.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="59.74,248.60;58.42,453.68;107.22,454.34;107.22,248.60" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="59.74,248.60;58.42,453.68;107.22,454.34;107.22,248.60" z_order="0">
     </polygon>
   </image>
   <image id="44" name="imessage_frame27.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="140.85,193.87;256.00,301.21;256.00,346.57;254.93,376.53;111.84,228.82" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="140.85,193.87;256.00,301.21;256.00,346.57;254.93,376.53;111.84,228.82" z_order="0">
     </polygon>
   </image>
   <image id="45" name="imessage_frame270.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="109.20,182.00;65.02,427.96;113.81,434.56;149.42,190.57" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="109.20,182.00;65.02,427.96;113.81,434.56;149.42,190.57" z_order="0">
     </polygon>
   </image>
   <image id="46" name="imessage_frame274.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="83.48,204.42;107.88,164.85;0.00,87.05;0.00,128.46;0.39,146.39" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="83.48,204.42;107.88,164.85;0.00,87.05;0.00,128.46;0.39,146.39" z_order="0">
     </polygon>
   </image>
   <image id="47" name="imessage_frame281.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="157.34,88.36;184.37,360.04;242.40,357.40;216.02,63.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="157.34,88.36;184.37,360.04;242.40,357.40;216.02,63.30" z_order="0">
     </polygon>
   </image>
   <image id="48" name="imessage_frame285.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="160.63,240.03;233.17,118.03;219.32,14.51;152.47,0.00;149.45,0.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="160.63,240.03;233.17,118.03;219.32,14.51;152.47,0.00;149.45,0.00" z_order="0">
     </polygon>
   </image>
   <image id="49" name="imessage_frame289.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="28.70,382.50;20.18,87.70;73.59,87.70;86.78,364.66" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="28.70,382.50;20.18,87.70;73.59,87.70;86.78,364.66" z_order="0">
     </polygon>
   </image>
   <image id="50" name="imessage_frame293.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="119.75,453.68;204.15,271.02;236.47,345.53;209.43,453.02" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="119.75,453.68;204.15,271.02;236.47,345.53;209.43,453.02" z_order="0">
     </polygon>
   </image>
   <image id="51" name="imessage_frame294.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.00,363.35;103.26,278.27;63.04,229.48;-0.00,275.79" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,363.35;103.26,278.27;63.04,229.48;-0.00,275.79" z_order="0">
     </polygon>
   </image>
   <image id="52" name="imessage_frame300.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="114.47,179.36;159.97,172.11;159.31,0.66;113.15,0.66" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="114.47,179.36;159.97,172.11;159.31,0.66;113.15,0.66" z_order="0">
     </polygon>
   </image>
   <image id="53" name="imessage_frame302.jpg" width="256" height="455">
   </image>
   <image id="54" name="imessage_frame305.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="152.06,361.36;204.81,367.95;240.42,76.49;181.08,85.06" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="152.06,361.36;204.81,367.95;240.42,76.49;181.08,85.06" z_order="0">
     </polygon>
   </image>
   <image id="55" name="imessage_frame313.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="161.95,354.77;188.33,73.19;246.36,75.17;227.23,377.85" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="161.95,354.77;188.33,73.19;246.36,75.17;227.23,377.85" z_order="0">
     </polygon>
   </image>
   <image id="56" name="imessage_frame33.jpg" width="256" height="455">
   </image>
   <image id="57" name="imessage_frame330.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="140.85,262.45;108.54,302.67;256.00,406.88;256.00,336.61" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="140.85,262.45;108.54,302.67;256.00,406.88;256.00,336.61" z_order="0">
     </polygon>
   </image>
   <image id="58" name="imessage_frame331.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="175.14,256.51;161.29,332.35;256.00,416.10;256.00,365.51;254.93,340.26" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="175.14,256.51;161.29,332.35;256.00,416.10;256.00,365.51;254.93,340.26" z_order="0">
     </polygon>
   </image>
   <image id="59" name="imessage_frame338.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="117.77,89.68;177.12,59.35;256.00,269.48;256.00,279.64;235.81,356.74" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="117.77,89.68;177.12,59.35;256.00,269.48;256.00,279.64;235.81,356.74" z_order="0">
     </polygon>
   </image>
   <image id="60" name="imessage_frame339.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="81.50,199.14;74.91,91.66;0.00,61.04;0.00,136.04" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="81.50,199.14;74.91,91.66;0.00,61.04;0.00,136.04" z_order="0">
     </polygon>
   </image>
   <image id="61" name="imessage_frame340.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="78.21,240.03;81.50,305.31;0.00,367.09;0.00,341.02;0.39,302.01" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="78.21,240.03;81.50,305.31;0.00,367.09;0.00,341.02;0.39,302.01" z_order="0">
     </polygon>
   </image>
   <image id="62" name="imessage_frame344.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="196.24,158.26;125.02,199.14;173.16,29.67;232.51,12.53" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="196.24,158.26;125.02,199.14;173.16,29.67;232.51,12.53" z_order="0">
     </polygon>
   </image>
   <image id="63" name="imessage_frame354.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="173.82,225.52;112.50,225.52;157.34,0.66;203.50,8.57" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="173.82,225.52;112.50,225.52;157.34,0.66;203.50,8.57" z_order="0">
     </polygon>
   </image>
   <image id="64" name="imessage_frame356.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="130.30,220.90;88.10,218.27;97.33,1.32;130.26,0.00;146.74,0.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="130.30,220.90;88.10,218.27;97.33,1.32;130.26,0.00;146.74,0.00" z_order="0">
     </polygon>
   </image>
   <image id="65" name="imessage_frame357.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="156.02,149.69;122.39,118.03;206.79,3.30;241.74,26.38" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="156.02,149.69;122.39,118.03;206.79,3.30;241.74,26.38" z_order="0">
     </polygon>
   </image>
   <image id="66" name="imessage_frame359.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="136.89,169.47;92.71,154.30;122.39,0.00;122.51,0.00;171.18,0.66" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="136.89,169.47;92.71,154.30;122.39,0.00;122.51,0.00;171.18,0.66" z_order="0">
     </polygon>
   </image>
   <image id="67" name="imessage_frame36.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="152.72,215.63;0.39,169.47;-0.00,133.62;0.00,109.55;115.79,149.03" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="152.72,215.63;0.39,169.47;-0.00,133.62;0.00,109.55;115.79,149.03" z_order="0">
     </polygon>
   </image>
   <image id="68" name="imessage_frame360.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="149.42,228.16;61.06,224.86;0.00,84.36;0.00,81.44;7.65,15.17" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="149.42,228.16;61.06,224.86;0.00,84.36;0.00,81.44;7.65,15.17" z_order="0">
     </polygon>
   </image>
   <image id="69" name="imessage_frame368.jpg" width="256" height="455">
   </image>
   <image id="70" name="imessage_frame376.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="134.92,190.57;115.13,231.45;256.00,312.70;256.00,256.32" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="134.92,190.57;115.13,231.45;256.00,312.70;256.00,256.32" z_order="0">
     </polygon>
   </image>
   <image id="71" name="imessage_frame377.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="140.90,232.80;196.24,254.53;220.64,437.19;175.14,449.72" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="140.90,232.80;196.24,254.53;220.64,437.19;175.14,449.72" z_order="0">
     </polygon>
   </image>
   <image id="72" name="imessage_frame379.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="81.50,408.18;57.76,346.85;256.00,180.23;256.00,255.82" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="81.50,408.18;57.76,346.85;256.00,180.23;256.00,255.82" z_order="0">
     </polygon>
   </image>
   <image id="73" name="imessage_frame383.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="176.46,216.95;131.62,224.86;239.76,427.30;256.00,386.20;256.00,364.84" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="176.46,216.95;131.62,224.86;239.76,427.30;256.00,386.20;256.00,364.84" z_order="0">
     </polygon>
   </image>
   <image id="74" name="imessage_frame384.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="140.19,166.17;188.99,180.02;141.51,435.22;93.37,422.03" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="140.19,166.17;188.99,180.02;141.51,435.22;93.37,422.03" z_order="0">
     </polygon>
   </image>
   <image id="75" name="imessage_frame388.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="45.20,90.30;71.61,170.13;177.12,1.32;98.65,0.66" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="45.20,90.30;71.61,170.13;177.12,1.32;98.65,0.66" z_order="0">
     </polygon>
   </image>
   <image id="76" name="imessage_frame39.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="117.01,249.47;74.28,272.42;147.87,453.63;197.72,438.59" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="117.01,249.47;74.28,272.42;147.87,453.63;197.72,438.59" z_order="0">
     </polygon>
   </image>
   <image id="77" name="imessage_frame391.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="132.04,40.57;86.94,70.64;212.80,325.40;256.00,290.27;256.00,278.48" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="132.04,40.57;86.94,70.64;212.80,325.40;256.00,290.27;256.00,278.48" z_order="0">
     </polygon>
   </image>
   <image id="78" name="imessage_frame400.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="196.93,193.29;190.60,8.12;248.36,19.99;249.15,160.84" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="196.93,193.29;190.60,8.12;248.36,19.99;249.15,160.84" z_order="0">
     </polygon>
   </image>
   <image id="79" name="imessage_frame406.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="210.38,212.28;151.82,104.66;187.43,27.11;239.66,126.03" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="210.38,212.28;151.82,104.66;187.43,27.11;239.66,126.03" z_order="0">
     </polygon>
   </image>
   <image id="80" name="imessage_frame412.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="98.01,174.30;135.21,207.53;256.00,44.69;256.00,36.16;217.50,10.50" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="98.01,174.30;135.21,207.53;256.00,44.69;256.00,36.16;217.50,10.50" z_order="0">
     </polygon>
   </image>
   <image id="81" name="imessage_frame414.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="179.52,235.23;156.57,201.99;256.00,116.33;256.00,173.28" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="179.52,235.23;156.57,201.99;256.00,116.33;256.00,173.28" z_order="0">
     </polygon>
   </image>
   <image id="82" name="imessage_frame417.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="107.51,248.68;156.57,217.82;39.46,16.04;1.48,41.36" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="107.51,248.68;156.57,217.82;39.46,16.04;1.48,41.36" z_order="0">
     </polygon>
   </image>
   <image id="83" name="imessage_frame437.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="163.69,239.18;124.13,247.89;171.61,453.63;215.13,440.97" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="163.69,239.18;124.13,247.89;171.61,453.63;215.13,440.97" z_order="0">
     </polygon>
   </image>
   <image id="84" name="imessage_frame439.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="37.08,335.72;256.00,198.90;256.00,278.22;60.82,388.74" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="37.08,335.72;256.00,198.90;256.00,278.22;60.82,388.74" z_order="0">
     </polygon>
   </image>
   <image id="85" name="imessage_frame448.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="162.11,220.19;124.13,194.87;236.49,23.16;256.00,44.67;256.00,74.77" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="162.11,220.19;124.13,194.87;236.49,23.16;256.00,44.67;256.00,74.77" z_order="0">
     </polygon>
   </image>
   <image id="86" name="imessage_frame455.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="165.28,181.42;137.58,148.18;256.00,30.55;256.00,55.10;255.48,101.50" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="165.28,181.42;137.58,148.18;256.00,30.55;256.00,55.10;255.48,101.50" z_order="0">
     </polygon>
   </image>
   <image id="87" name="imessage_frame458.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="157.36,172.71;106.72,160.05;166.86,10.50;208.01,24.74" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="157.36,172.71;106.72,160.05;166.86,10.50;208.01,24.74" z_order="0">
     </polygon>
   </image>
   <image id="88" name="imessage_frame459.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="129.67,338.10;186.64,295.37;33.92,17.62;0.00,36.79;0.00,93.60" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="129.67,338.10;186.64,295.37;33.92,17.62;0.00,36.79;0.00,93.60" z_order="0">
     </polygon>
   </image>
   <image id="89" name="imessage_frame460.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="101.18,247.89;153.40,228.10;73.48,7.33;26.01,19.20" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="101.18,247.89;153.40,228.10;73.48,7.33;26.01,19.20" z_order="0">
     </polygon>
   </image>
   <image id="90" name="imessage_frame461.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.68,355.50;1.48,245.51;50.54,209.11;22.05,354.71" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.68,355.50;1.48,245.51;50.54,209.11;22.05,354.71" z_order="0">
     </polygon>
   </image>
   <image id="91" name="imessage_frame469.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="37.88,418.02;0.00,400.94;0.00,395.52;125.71,177.46;162.11,198.04" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="37.88,418.02;0.00,400.94;0.00,395.52;125.71,177.46;162.11,198.04" z_order="0">
     </polygon>
   </image>
   <image id="92" name="imessage_frame475.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="123.34,199.62;173.19,207.53;235.70,433.05;181.89,450.46" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="123.34,199.62;173.19,207.53;235.70,433.05;181.89,450.46" z_order="0">
     </polygon>
   </image>
   <image id="93" name="imessage_frame477.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="63.20,257.38;108.30,250.26;130.44,455.00;117.04,455.00;79.81,454.42" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="63.20,257.38;108.30,250.26;130.44,455.00;117.04,455.00;79.81,454.42" z_order="0">
     </polygon>
   </image>
   <image id="94" name="imessage_frame479.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="60.82,444.92;13.35,424.35;99.60,222.57;133.62,236.02" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="60.82,444.92;13.35,424.35;99.60,222.57;133.62,236.02" z_order="0">
     </polygon>
   </image>
   <image id="95" name="imessage_frame48.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="22.05,432.26;158.15,249.47;113.10,228.10;0.00,367.92;0.00,371.44" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="22.05,432.26;158.15,249.47;113.10,228.10;0.00,367.92;0.00,371.44" z_order="0">
     </polygon>
   </image>
   <image id="96" name="imessage_frame481.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="116.21,287.45;163.69,286.66;182.68,448.09;143.98,455.00;138.24,455.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="116.21,287.45;163.69,286.66;182.68,448.09;143.98,455.00;138.24,455.00" z_order="0">
     </polygon>
   </image>
   <image id="97" name="imessage_frame482.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="215.13,214.65;159.74,124.44;191.39,31.07;256.00,124.84;256.00,125.84" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="215.13,214.65;159.74,124.44;191.39,31.07;256.00,124.84;256.00,125.84" z_order="0">
     </polygon>
   </image>
   <image id="98" name="imessage_frame483.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="147.08,168.76;95.64,145.02;148.37,0.00;161.67,0.00;198.51,8.91" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="147.08,168.76;95.64,145.02;148.37,0.00;161.67,0.00;198.51,8.91" z_order="0">
     </polygon>
   </image>
   <image id="99" name="imessage_frame490.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="118.59,416.44;76.65,356.30;256.00,140.14;256.00,236.51" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="118.59,416.44;76.65,356.30;256.00,140.14;256.00,236.51" z_order="0">
     </polygon>
   </image>
   <image id="100" name="imessage_frame497.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="105.24,206.40;64.36,191.89;125.68,0.00;125.71,-0.00;173.16,3.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="105.24,206.40;64.36,191.89;125.68,0.00;125.71,-0.00;173.16,3.30" z_order="0">
     </polygon>
   </image>
   <image id="101" name="imessage_frame498.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="171.18,84.40;224.60,84.40;231.19,383.78;167.89,367.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="171.18,84.40;224.60,84.40;231.19,383.78;167.89,367.30" z_order="0">
     </polygon>
   </image>
   <image id="102" name="imessage_frame499.jpg" width="256" height="455">
   </image>
   <image id="103" name="imessage_frame51.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="97.99,172.77;146.79,163.53;114.47,0.00;114.46,0.00;64.36,5.27" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="97.99,172.77;146.79,163.53;114.47,0.00;114.46,0.00;64.36,5.27" z_order="0">
     </polygon>
   </image>
   <image id="104" name="imessage_frame56.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="91.39,191.89;137.55,184.64;126.34,0.00;126.22,0.00;78.87,0.66" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="91.39,191.89;137.55,184.64;126.34,0.00;126.22,0.00;78.87,0.66" z_order="0">
     </polygon>
   </image>
   <image id="105" name="imessage_frame6.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="108.54,281.57;157.34,278.93;161.29,453.02;110.52,452.36" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="108.54,281.57;157.34,278.93;161.29,453.02;110.52,452.36" z_order="0">
     </polygon>
   </image>
   <image id="106" name="imessage_frame63.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="178.44,236.07;256.00,117.14;256.00,100.63;249.00,47.50;132.28,226.18" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="178.44,236.07;256.00,117.14;256.00,100.63;249.00,47.50;132.28,226.18" z_order="0">
     </polygon>
   </image>
   <image id="107" name="imessage_frame64.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="116.45,317.18;155.36,287.51;238.44,429.28;190.97,451.70" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="116.45,317.18;155.36,287.51;238.44,429.28;190.97,451.70" z_order="0">
     </polygon>
   </image>
   <image id="108" name="imessage_frame69.jpg" width="256" height="455">
   </image>
   <image id="109" name="imessage_frame70.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="87.44,305.97;142.83,318.50;141.51,453.68;89.42,455.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="87.44,305.97;142.83,318.50;141.51,453.68;89.42,455.00" z_order="0">
     </polygon>
   </image>
   <image id="110" name="imessage_frame72.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="87.44,288.82;131.62,270.36;34.68,59.35;-0.00,76.69;0.00,83.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="87.44,288.82;131.62,270.36;34.68,59.35;-0.00,76.69;0.00,83.09" z_order="0">
     </polygon>
   </image>
   <image id="111" name="imessage_frame73.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="115.13,267.06;157.34,245.30;39.96,27.69;3.69,49.45" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="115.13,267.06;157.34,245.30;39.96,27.69;3.69,49.45" z_order="0">
     </polygon>
   </image>
   <image id="112" name="imessage_frame77.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="113.16,238.71;163.27,233.43;208.11,441.81;160.63,454.34" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="113.16,238.71;163.27,233.43;208.11,441.81;160.63,454.34" z_order="0">
     </polygon>
   </image>
   <image id="113" name="imessage_frame78.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="208.11,265.08;157.34,281.57;223.28,436.53;256.00,400.43;256.00,380.96" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="208.11,265.08;157.34,281.57;223.28,436.53;256.00,400.43;256.00,380.96" z_order="0">
     </polygon>
   </image>
   <image id="114" name="imessage_frame88.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="212.73,442.47;155.36,451.70;126.34,312.56;169.21,272.34" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="212.73,442.47;155.36,451.70;126.34,312.56;169.21,272.34" z_order="0">
     </polygon>
   </image>
   <image id="115" name="imessage_frame9.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="131.62,269.70;185.69,265.09;183.06,0.00;170.99,0.00;134.92,1.98" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="131.62,269.70;185.69,265.09;183.06,0.00;170.99,0.00;134.92,1.98" z_order="0">
     </polygon>
   </image>
   <image id="116" name="imessage_frame93.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="124.37,157.60;256.00,72.23;255.30,138.00;152.72,205.74" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="124.37,157.60;256.00,72.23;255.30,138.00;152.72,205.74" z_order="0">
     </polygon>
   </image>
   <image id="117" name="phone_frame0.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="88.76,211.01;133.60,216.95;21.50,356.09;0.00,324.44;0.00,318.42" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="88.76,211.01;133.60,216.95;21.50,356.09;0.00,324.44;0.00,318.42" z_order="0">
     </polygon>
   </image>
   <image id="118" name="phone_frame1.jpg" width="256" height="455">
   </image>
   <image id="119" name="phone_frame10.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="121.10,122.70;181.08,116.72;206.10,397.60;152.72,404.22" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="121.10,122.70;181.08,116.72;206.10,397.60;152.72,404.22" z_order="0">
     </polygon>
   </image>
   <image id="120" name="phone_frame102.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="119.75,351.47;66.34,315.20;139.53,47.48;185.03,67.92" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="119.75,351.47;66.34,315.20;139.53,47.48;185.03,67.92" z_order="0">
     </polygon>
   </image>
   <image id="121" name="phone_frame103.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="99.31,389.72;51.17,379.82;109.86,158.92;152.72,152.32" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="99.31,389.72;51.17,379.82;109.86,158.92;152.72,152.32" z_order="0">
     </polygon>
   </image>
   <image id="122" name="phone_frame110.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="225.92,424.67;166.57,407.52;140.20,178.70;198.88,210.35" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="225.92,424.67;166.57,407.52;140.20,178.70;198.88,210.35" z_order="0">
     </polygon>
   </image>
   <image id="123" name="phone_frame117.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="57.10,317.84;134.92,298.06;60.40,427.96;-0.00,440.44;0.00,439.92" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="57.10,317.84;134.92,298.06;60.40,427.96;-0.00,440.44;0.00,439.92" z_order="0">
     </polygon>
   </image>
   <image id="124" name="phone_frame125.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="115.13,276.30;193.60,277.61;224.60,365.32;149.42,363.34" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="115.13,276.30;193.60,277.61;224.60,365.32;149.42,363.34" z_order="0">
     </polygon>
   </image>
   <image id="125" name="phone_frame129.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="190.97,214.97;131.00,246.00;176.46,47.48;229.87,29.01" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="190.97,214.97;131.00,246.00;176.46,47.48;229.87,29.01" z_order="0">
     </polygon>
   </image>
   <image id="126" name="phone_frame13.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="130.30,143.09;57.10,178.70;239.76,422.03;256.00,342.52;256.00,324.23" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="130.30,143.09;57.10,178.70;239.76,422.03;256.00,342.52;256.00,324.23" z_order="0">
     </polygon>
   </image>
   <image id="127" name="phone_frame136.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="49.19,326.41;0.00,302.14;0.00,294.00;223.28,13.19;256.00,50.58;256.00,71.54" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="49.19,326.41;0.00,302.14;0.00,294.00;223.28,13.19;256.00,50.58;256.00,71.54" z_order="0">
     </polygon>
   </image>
   <image id="128" name="phone_frame14.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="72.93,195.19;42.60,87.70;115.13,40.22;140.85,146.39" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="72.93,195.19;42.60,87.70;115.13,40.22;140.85,146.39" z_order="0">
     </polygon>
   </image>
   <image id="129" name="phone_frame143.jpg" width="256" height="455">
   </image>
   <image id="130" name="phone_frame15.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="195.58,361.36;144.15,320.48;161.95,131.88;207.45,172.77" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="195.58,361.36;144.15,320.48;161.95,131.88;207.45,172.77" z_order="0">
     </polygon>
   </image>
   <image id="131" name="phone_frame152.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="1.05,293.44;134.92,210.35;110.52,172.77;0.00,235.92;0.00,247.61" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.05,293.44;134.92,210.35;110.52,172.77;0.00,235.92;0.00,247.61" z_order="0">
     </polygon>
   </image>
   <image id="132" name="phone_frame157.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="32.05,404.88;129.64,305.97;153.40,0.00;63.70,75.83" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="32.05,404.88;129.64,305.97;153.40,0.00;63.70,75.83" z_order="0">
     </polygon>
   </image>
   <image id="133" name="phone_frame159.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="118.43,223.54;150.08,234.75;236.47,99.57;202.84,94.95" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="118.43,223.54;150.08,234.75;236.47,99.57;202.84,94.95" z_order="0">
     </polygon>
   </image>
   <image id="134" name="phone_frame161.jpg" width="256" height="455">
   </image>
   <image id="135" name="phone_frame165.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="138.87,176.06;118.43,220.24;256.00,347.33;256.00,270.02" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="138.87,176.06;118.43,220.24;256.00,347.33;256.00,270.02" z_order="0">
     </polygon>
   </image>
   <image id="136" name="phone_frame168.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="17.54,420.71;122.39,246.62;84.14,226.18;0.00,361.20;0.00,365.59" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="17.54,420.71;122.39,246.62;84.14,226.18;0.00,361.20;0.00,365.59" z_order="0">
     </polygon>
   </image>
   <image id="137" name="phone_frame170.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="77.55,172.77;105.90,160.90;158.00,284.87;127.00,300.03" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="77.55,172.77;105.90,160.90;158.00,284.87;127.00,300.03" z_order="0">
     </polygon>
   </image>
   <image id="138" name="phone_frame178.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="90.73,265.75;161.95,308.61;146.79,424.01;73.59,375.87" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="90.73,265.75;161.95,308.61;146.79,424.01;73.59,375.87" z_order="0">
     </polygon>
   </image>
   <image id="139" name="phone_frame180.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="114.50,255.90;138.87,172.77;256.00,104.65;256.00,123.40;243.72,185.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="114.50,255.90;138.87,172.77;256.00,104.65;256.00,123.40;243.72,185.30" z_order="0">
     </polygon>
   </image>
   <image id="140" name="phone_frame190.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="119.09,179.36;117.11,222.88;246.40,118.70;247.02,67.92" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="119.09,179.36;117.11,222.88;246.40,118.70;247.02,67.92" z_order="0">
     </polygon>
   </image>
   <image id="141" name="phone_frame191.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="53.15,104.19;41.94,174.09;161.95,350.81;166.57,271.68" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="53.15,104.19;41.94,174.09;161.95,350.81;166.57,271.68" z_order="0">
     </polygon>
   </image>
   <image id="142" name="phone_frame196.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="101.30,158.90;79.50,184.60;247.68,303.33;256.00,270.59;256.00,263.34" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="101.30,158.90;79.50,184.60;247.68,303.33;256.00,270.59;256.00,263.34" z_order="0">
     </polygon>
   </image>
   <image id="143" name="phone_frame198.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="212.70,437.20;150.74,382.46;115.13,138.48;174.48,175.40" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="212.70,437.20;150.74,382.46;115.13,138.48;174.48,175.40" z_order="0">
     </polygon>
   </image>
   <image id="144" name="phone_frame201.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="87.44,242.01;120.41,230.14;172.50,412.80;132.28,427.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="87.44,242.01;120.41,230.14;172.50,412.80;132.28,427.30" z_order="0">
     </polygon>
   </image>
   <image id="145" name="phone_frame203.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="181.73,199.80;160.63,180.68;232.51,55.39;256.00,74.31;256.00,74.93" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="181.73,199.80;160.63,180.68;232.51,55.39;256.00,74.31;256.00,74.93" z_order="0">
     </polygon>
   </image>
   <image id="146" name="phone_frame209.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="60.40,104.19;21.50,145.07;209.43,392.35;248.34,342.24" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="60.40,104.19;21.50,145.07;209.43,392.35;248.34,342.24" z_order="0">
     </polygon>
   </image>
   <image id="147" name="phone_frame211.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="35.30,189.90;216.68,248.60;256.00,322.08;256.00,323.54;100.63,283.55" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="35.30,189.90;216.68,248.60;256.00,322.08;256.00,323.54;100.63,283.55" z_order="0">
     </polygon>
   </image>
   <image id="148" name="phone_frame214.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="174.48,274.32;119.75,303.33;152.72,27.03;200.86,4.61" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="174.48,274.32;119.75,303.33;152.72,27.03;200.86,4.61" z_order="0">
     </polygon>
   </image>
   <image id="149" name="phone_frame217.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="181.73,331.69;112.50,255.19;140.85,174.74;203.50,253.22" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="181.73,331.69;112.50,255.19;140.85,174.74;203.50,253.22" z_order="0">
     </polygon>
   </image>
   <image id="150" name="phone_frame220.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="131.62,233.43;133.60,195.85;0.00,132.32;0.00,141.59;3.03,173.43" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="131.62,233.43;133.60,195.85;0.00,132.32;0.00,141.59;3.03,173.43" z_order="0">
     </polygon>
   </image>
   <image id="151" name="phone_frame233.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="78.87,189.91;49.19,219.59;197.56,376.53;223.28,348.17" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="78.87,189.91;49.19,219.59;197.56,376.53;223.28,348.17" z_order="0">
     </polygon>
   </image>
   <image id="152" name="phone_frame237.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="51.83,132.54;99.97,118.69;56.44,11.21;22.15,22.42" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="51.83,132.54;99.97,118.69;56.44,11.21;22.15,22.42" z_order="0">
     </polygon>
   </image>
   <image id="153" name="phone_frame239.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="56.44,434.56;150.08,98.91;208.11,115.40;113.15,454.34" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="56.44,434.56;150.08,98.91;208.11,115.40;113.15,454.34" z_order="0">
     </polygon>
   </image>
   <image id="154" name="phone_frame240.jpg" width="256" height="455">
@@ -650,289 +650,289 @@
   <image id="155" name="phone_frame242.jpg" width="256" height="455">
   </image>
   <image id="156" name="phone_frame251.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="161.29,247.94;121.73,259.81;192.94,445.11;233.83,431.92" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="161.29,247.94;121.73,259.81;192.94,445.11;233.83,431.92" z_order="0">
     </polygon>
   </image>
   <image id="157" name="phone_frame259.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="104.58,212.99;63.70,229.48;125.02,453.02;169.87,443.13" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="104.58,212.99;63.70,229.48;125.02,453.02;169.87,443.13" z_order="0">
     </polygon>
   </image>
   <image id="158" name="phone_frame26.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="133.60,189.91;103.92,217.61;247.02,379.16;256.00,335.31;256.00,322.03" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="133.60,189.91;103.92,217.61;247.02,379.16;256.00,335.31;256.00,322.03" z_order="0">
     </polygon>
   </image>
   <image id="159" name="phone_frame260.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="25.45,359.38;109.86,280.25;74.91,200.46;0.00,279.28;0.00,283.03" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="25.45,359.38;109.86,280.25;74.91,200.46;0.00,279.28;0.00,283.03" z_order="0">
     </polygon>
   </image>
   <image id="160" name="phone_frame263.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="174.48,309.93;217.34,277.61;0.39,78.47;-0.00,121.02;0.00,149.93" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="174.48,309.93;217.34,277.61;0.39,78.47;-0.00,121.02;0.00,149.93" z_order="0">
     </polygon>
   </image>
   <image id="161" name="phone_frame267.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="150.74,148.37;188.99,170.79;151.40,410.82;98.65,378.51" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="150.74,148.37;188.99,170.79;151.40,410.82;98.65,378.51" z_order="0">
     </polygon>
   </image>
   <image id="162" name="phone_frame269.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="19.52,137.82;10.94,199.80;96.01,333.67;111.18,271.68" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="19.52,137.82;10.94,199.80;96.01,333.67;111.18,271.68" z_order="0">
     </polygon>
   </image>
   <image id="163" name="phone_frame271.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="84.10,240.70;122.39,183.98;35.34,20.44;0.00,33.06;0.00,63.83" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="84.10,240.70;122.39,183.98;35.34,20.44;0.00,33.06;0.00,63.83" z_order="0">
     </polygon>
   </image>
   <image id="164" name="phone_frame273.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="77.55,269.70;133.60,292.78;126.30,455.00;70.29,453.68" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="77.55,269.70;133.60,292.78;126.30,455.00;70.29,453.68" z_order="0">
     </polygon>
   </image>
   <image id="165" name="phone_frame279.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="42.60,96.27;85.46,74.51;183.71,301.35;139.53,318.50" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="42.60,96.27;85.46,74.51;183.71,301.35;139.53,318.50" z_order="0">
     </polygon>
   </image>
   <image id="166" name="phone_frame283.jpg" width="256" height="455">
   </image>
   <image id="167" name="phone_frame284.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="132.28,252.56;163.93,290.80;138.97,455.00;137.73,455.00;96.67,431.26" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="132.28,252.56;163.93,290.80;138.97,455.00;137.73,455.00;96.67,431.26" z_order="0">
     </polygon>
   </image>
   <image id="168" name="phone_frame286.jpg" width="256" height="455">
   </image>
   <image id="169" name="phone_frame288.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="148.76,190.57;187.01,207.06;140.85,413.45;101.94,386.42" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="148.76,190.57;187.01,207.06;140.85,413.45;101.94,386.42" z_order="0">
     </polygon>
   </image>
   <image id="170" name="phone_frame303.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="140.90,454.30;65.02,375.87;115.13,52.09;216.68,52.75" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="140.90,454.30;65.02,375.87;115.13,52.09;216.68,52.75" z_order="0">
     </polygon>
   </image>
   <image id="171" name="phone_frame306.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.39,323.77;61.06,234.75;74.25,309.93;1.05,423.35" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,323.77;61.06,234.75;74.25,309.93;1.05,423.35" z_order="0">
     </polygon>
   </image>
   <image id="172" name="phone_frame31.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="127.66,266.40;178.44,249.92;215.37,52.09;161.95,51.43" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="127.66,266.40;178.44,249.92;215.37,52.09;161.95,51.43" z_order="0">
     </polygon>
   </image>
   <image id="173" name="phone_frame312.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="90.73,250.58;127.00,232.11;55.13,53.41;10.94,52.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="90.73,250.58;127.00,232.11;55.13,53.41;10.94,52.09" z_order="0">
     </polygon>
   </image>
   <image id="174" name="phone_frame316.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.00,314.40;223.94,194.53;190.31,151.67;0.00,252.72" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,314.40;223.94,194.53;190.31,151.67;0.00,252.72" z_order="0">
     </polygon>
   </image>
   <image id="175" name="phone_frame320.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="150.08,229.48;247.02,257.83;154.70,110.12;60.40,86.38" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="150.08,229.48;247.02,257.83;154.70,110.12;60.40,86.38" z_order="0">
     </polygon>
   </image>
   <image id="176" name="phone_frame325.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="206.13,284.21;158.00,272.34;254.93,57.37;256.00,142.95;256.00,163.48" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="206.13,284.21;158.00,272.34;254.93,57.37;256.00,142.95;256.00,163.48" z_order="0">
     </polygon>
   </image>
   <image id="177" name="phone_frame327.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="169.90,453.70;219.32,411.48;0.00,144.88;0.00,232.54;0.39,270.36;143.49,455.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="169.90,453.70;219.32,411.48;0.00,144.88;0.00,232.54;0.39,270.36;143.49,455.00" z_order="0">
     </polygon>
   </image>
   <image id="178" name="phone_frame329.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="80.84,193.87;117.11,177.38;181.08,385.76;138.87,402.24" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="80.84,193.87;117.11,177.38;181.08,385.76;138.87,402.24" z_order="0">
     </polygon>
   </image>
   <image id="179" name="phone_frame332.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="92.05,96.93;132.28,95.61;167.23,270.36;131.62,271.02" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="92.05,96.93;132.28,95.61;167.23,270.36;131.62,271.02" z_order="0">
     </polygon>
   </image>
   <image id="180" name="phone_frame336.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="24.80,325.10;256.00,163.07;256.00,159.76;217.34,128.59;1.10,273.70" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="24.80,325.10;256.00,163.07;256.00,159.76;217.34,128.59;1.10,273.70" z_order="0">
     </polygon>
   </image>
   <image id="181" name="phone_frame34.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="64.36,278.27;131.62,281.57;91.39,365.98;22.15,363.34" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="64.36,278.27;131.62,281.57;91.39,365.98;22.15,363.34" z_order="0">
     </polygon>
   </image>
   <image id="182" name="phone_frame345.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="163.93,373.89;192.94,366.64;213.39,437.85;186.35,448.40" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="163.93,373.89;192.94,366.64;213.39,437.85;186.35,448.40" z_order="0">
     </polygon>
   </image>
   <image id="183" name="phone_frame347.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="128.32,236.07;158.00,201.78;1.05,77.81;0.39,139.14" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="128.32,236.07;158.00,201.78;1.05,77.81;0.39,139.14" z_order="0">
     </polygon>
   </image>
   <image id="184" name="phone_frame350.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="86.12,217.61;196.24,259.15;82.16,52.75;0.00,52.11;0.00,55.08" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="86.12,217.61;196.24,259.15;82.16,52.75;0.00,52.11;0.00,55.08" z_order="0">
     </polygon>
   </image>
   <image id="185" name="phone_frame351.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="53.15,255.85;53.15,198.48;220.64,87.04;209.43,151.67" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="53.15,255.85;53.15,198.48;220.64,87.04;209.43,151.67" z_order="0">
     </polygon>
   </image>
   <image id="186" name="phone_frame355.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="218.66,225.52;256.00,181.22;256.00,119.65;171.84,218.27" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="218.66,225.52;256.00,181.22;256.00,119.65;171.84,218.27" z_order="0">
     </polygon>
   </image>
   <image id="187" name="phone_frame358.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="31.39,347.51;5.01,298.72;229.87,74.51;256.00,126.77;256.00,133.35" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="31.39,347.51;5.01,298.72;229.87,74.51;256.00,126.77;256.00,133.35" z_order="0">
     </polygon>
   </image>
   <image id="188" name="phone_frame363.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="210.75,245.96;198.88,273.00;254.70,316.80;256.00,285.09;255.59,278.93" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="210.75,245.96;198.88,273.00;254.70,316.80;256.00,285.09;255.59,278.93" z_order="0">
     </polygon>
   </image>
   <image id="189" name="phone_frame367.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="130.30,168.15;204.15,237.39;224.60,396.31;146.79,327.73" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="130.30,168.15;204.15,237.39;224.60,396.31;146.79,327.73" z_order="0">
     </polygon>
   </image>
   <image id="190" name="phone_frame370.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="130.30,234.75;190.97,223.54;256.00,119.62;256.00,83.11;226.58,83.74" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="130.30,234.75;190.97,223.54;256.00,119.62;256.00,83.11;226.58,83.74" z_order="0">
     </polygon>
   </image>
   <image id="191" name="phone_frame371.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="113.81,223.54;88.10,248.60;225.92,372.57;254.93,343.56" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="113.81,223.54;88.10,248.60;225.92,372.57;254.93,343.56" z_order="0">
     </polygon>
   </image>
   <image id="192" name="phone_frame372.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="146.79,257.83;209.43,287.51;162.79,455.00;125.45,455.00;88.10,454.34" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="146.79,257.83;209.43,287.51;162.79,455.00;125.45,455.00;88.10,454.34" z_order="0">
     </polygon>
   </image>
   <image id="193" name="phone_frame373.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="179.80,396.30;52.50,209.70;86.78,114.74;187.67,269.70" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="179.80,396.30;52.50,209.70;86.78,114.74;187.67,269.70" z_order="0">
     </polygon>
   </image>
   <image id="194" name="phone_frame375.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="175.80,255.85;167.23,201.78;34.68,97.59;39.30,150.35" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="175.80,255.85;167.23,201.78;34.68,97.59;39.30,150.35" z_order="0">
     </polygon>
   </image>
   <image id="195" name="phone_frame378.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="40.00,394.30;40.62,321.14;205.47,204.42;190.31,276.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="40.00,394.30;40.62,321.14;205.47,204.42;190.31,276.30" z_order="0">
     </polygon>
   </image>
   <image id="196" name="phone_frame38.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="155.36,157.60;210.75,196.51;98.27,455.00;95.98,455.00;17.54,429.28" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="155.36,157.60;210.75,196.51;98.27,455.00;95.98,455.00;17.54,429.28" z_order="0">
     </polygon>
   </image>
   <image id="197" name="phone_frame390.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="29.41,317.18;22.81,411.48;110.52,317.18;108.54,249.92" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="29.41,317.18;22.81,411.48;110.52,317.18;108.54,249.92" z_order="0">
     </polygon>
   </image>
   <image id="198" name="phone_frame392.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.39,341.58;150.08,243.98;113.15,219.59;0.00,293.50;-0.00,327.41" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,341.58;150.08,243.98;113.15,219.59;0.00,293.50;-0.00,327.41" z_order="0">
     </polygon>
   </image>
   <image id="199" name="phone_frame393.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="68.31,276.30;140.19,264.43;256.00,58.18;256.00,55.66;185.69,67.92" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="68.31,276.30;140.19,264.43;256.00,58.18;256.00,55.66;185.69,67.92" z_order="0">
     </polygon>
   </image>
   <image id="200" name="phone_frame394.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="181.08,362.02;234.49,335.64;55.13,89.02;6.99,116.72" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="181.08,362.02;234.49,335.64;55.13,89.02;6.99,116.72" z_order="0">
     </polygon>
   </image>
   <image id="201" name="phone_frame395.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="82.16,224.20;159.97,178.70;62.38,110.78;0.00,151.11;0.00,155.41" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="82.16,224.20;159.97,178.70;62.38,110.78;0.00,151.11;0.00,155.41" z_order="0">
     </polygon>
   </image>
   <image id="202" name="phone_frame397.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="67.00,297.40;163.27,267.72;173.16,416.75;73.13,455.00;61.23,455.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="67.00,297.40;163.27,267.72;173.16,416.75;73.13,455.00;61.23,455.00" z_order="0">
     </polygon>
   </image>
   <image id="203" name="phone_frame398.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="66.34,310.58;144.81,311.24;133.60,54.07;51.83,52.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="66.34,310.58;144.81,311.24;133.60,54.07;51.83,52.09" z_order="0">
     </polygon>
   </image>
   <image id="204" name="phone_frame4.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="98.65,181.34;125.68,261.13;256.00,339.97;256.00,317.20;252.29,261.13" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="98.65,181.34;125.68,261.13;256.00,339.97;256.00,317.20;252.29,261.13" z_order="0">
     </polygon>
   </image>
   <image id="205" name="phone_frame40.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="115.13,214.97;253.60,190.60;256.00,139.72;256.00,130.43;160.63,152.98" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="115.13,214.97;253.60,190.60;256.00,139.72;256.00,130.43;160.63,152.98" z_order="0">
     </polygon>
   </image>
   <image id="206" name="phone_frame403.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="123.71,236.07;91.39,213.65;196.90,52.75;221.30,81.11" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="123.71,236.07;91.39,213.65;196.90,52.75;221.30,81.11" z_order="0">
     </polygon>
   </image>
   <image id="207" name="phone_frame405.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="127.66,199.80;81.50,138.48;95.35,52.75;113.15,52.75;142.83,98.91" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="127.66,199.80;81.50,138.48;95.35,52.75;113.15,52.75;142.83,98.91" z_order="0">
     </polygon>
   </image>
   <image id="208" name="phone_frame41.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.00,80.65;61.06,127.93;39.96,203.10;0.00,172.02" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,80.65;61.06,127.93;39.96,203.10;0.00,172.02" z_order="0">
     </polygon>
   </image>
   <image id="209" name="phone_frame419.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="101.94,198.48;74.91,228.16;233.17,327.07;256.00,299.30;256.00,296.40" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="101.94,198.48;74.91,228.16;233.17,327.07;256.00,299.30;256.00,296.40" z_order="0">
     </polygon>
   </image>
   <image id="210" name="phone_frame42.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="102.60,323.11;159.31,282.23;204.81,70.56;142.83,112.76" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="102.60,323.11;159.31,282.23;204.81,70.56;142.83,112.76" z_order="0">
     </polygon>
   </image>
   <image id="211" name="phone_frame421.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="142.17,316.52;191.63,315.86;234.49,91.00;192.94,95.61" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="142.17,316.52;191.63,315.86;234.49,91.00;192.94,95.61" z_order="0">
     </polygon>
   </image>
   <image id="212" name="phone_frame422.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="181.73,259.81;217.34,230.80;43.26,84.40;5.67,112.10" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="181.73,259.81;217.34,230.80;43.26,84.40;5.67,112.10" z_order="0">
     </polygon>
   </image>
   <image id="213" name="phone_frame429.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="1.05,379.82;210.09,210.35;158.00,176.72;0.00,309.04;0.00,323.46" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.05,379.82;210.09,210.35;158.00,176.72;0.00,309.04;0.00,323.46" z_order="0">
     </polygon>
   </image>
   <image id="214" name="phone_frame431.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="114.47,311.90;140.85,312.56;134.92,454.34;107.22,453.68" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="114.47,311.90;140.85,312.56;134.92,454.34;107.22,453.68" z_order="0">
     </polygon>
   </image>
   <image id="215" name="phone_frame433.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="1.71,367.96;211.41,152.98;127.00,133.86;1.05,245.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.71,367.96;211.41,152.98;127.00,133.86;1.05,245.30" z_order="0">
     </polygon>
   </image>
   <image id="216" name="phone_frame434.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="196.24,298.06;247.02,261.13;26.11,67.26;0.00,102.87;0.00,109.61" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="196.24,298.06;247.02,261.13;26.11,67.26;0.00,102.87;0.00,109.61" z_order="0">
     </polygon>
   </image>
   <image id="217" name="phone_frame442.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="59.74,114.08;109.86,203.10;256.00,261.17;256.00,259.16;194.92,156.94" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="59.74,114.08;109.86,203.10;256.00,261.17;256.00,259.16;194.92,156.94" z_order="0">
     </polygon>
   </image>
   <image id="218" name="phone_frame446.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="169.87,116.72;167.89,160.24;256.00,102.58;256.00,69.67;255.59,61.32" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="169.87,116.72;167.89,160.24;256.00,102.58;256.00,69.67;255.59,61.32" z_order="0">
     </polygon>
   </image>
   <image id="219" name="phone_frame453.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="28.75,284.21;14.90,360.70;206.13,240.69;214.71,172.11" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="28.75,284.21;14.90,360.70;206.13,240.69;214.71,172.11" z_order="0">
     </polygon>
   </image>
   <image id="220" name="phone_frame454.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="40.62,248.60;22.15,313.22;185.69,232.11;196.24,180.68" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="40.62,248.60;22.15,313.22;185.69,232.11;196.24,180.68" z_order="0">
     </polygon>
   </image>
   <image id="221" name="phone_frame456.jpg" width="256" height="455">
   </image>
   <image id="222" name="phone_frame457.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="44.60,205.70;214.05,201.78;256.00,245.03;256.00,278.21;255.59,292.78;136.20,296.10" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="44.60,205.70;214.05,201.78;256.00,245.03;256.00,278.21;255.59,292.78;136.20,296.10" z_order="0">
     </polygon>
   </image>
   <image id="223" name="phone_frame464.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="57.10,160.24;188.99,452.36;236.47,425.98;106.56,139.80" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="57.10,160.24;188.99,452.36;236.47,425.98;106.56,139.80" z_order="0">
     </polygon>
   </image>
   <image id="224" name="phone_frame465.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="77.55,271.02;37.32,257.17;184.37,106.82;233.17,121.33" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="77.55,271.02;37.32,257.17;184.37,106.82;233.17,121.33" z_order="0">
     </polygon>
   </image>
   <image id="225" name="phone_frame466.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="94.03,183.98;132.94,174.74;111.84,51.43;74.91,51.43" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="94.03,183.98;132.94,174.74;111.84,51.43;74.91,51.43" z_order="0">
     </polygon>
   </image>
   <image id="226" name="phone_frame468.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="159.31,379.82;222.62,358.72;154.70,63.96;103.26,79.13" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="159.31,379.82;222.62,358.72;154.70,63.96;103.26,79.13" z_order="0">
     </polygon>
   </image>
   <image id="227" name="phone_frame471.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="65.02,334.32;22.15,311.90;123.05,71.22;160.63,94.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="65.02,334.32;22.15,311.90;123.05,71.22;160.63,94.30" z_order="0">
     </polygon>
   </image>
   <image id="228" name="phone_frame480.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="121.73,272.34;146.79,230.80;0.00,131.40;0.00,142.64;1.05,187.93" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="121.73,272.34;146.79,230.80;0.00,131.40;0.00,142.64;1.05,187.93" z_order="0">
     </polygon>
   </image>
   <image id="229" name="phone_frame487.jpg" width="256" height="455">
@@ -956,15 +956,15 @@
   <image id="238" name="phone_frame62.jpg" width="256" height="455">
   </image>
   <image id="239" name="phone_frame66.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="1.05,425.98;0.39,336.96;84.80,235.41;92.05,305.97" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.05,425.98;0.39,336.96;84.80,235.41;92.05,305.97" z_order="0">
     </polygon>
   </image>
   <image id="240" name="phone_frame68.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="119.09,295.42;170.52,274.98;124.37,52.09;74.91,52.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="119.09,295.42;170.52,274.98;124.37,52.09;74.91,52.09" z_order="0">
     </polygon>
   </image>
   <image id="241" name="phone_frame71.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="121.07,116.06;155.36,123.97;149.42,52.09;118.43,52.75" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="121.07,116.06;155.36,123.97;149.42,52.09;118.43,52.75" z_order="0">
     </polygon>
   </image>
   <image id="242" name="phone_frame75.jpg" width="256" height="455">
@@ -972,371 +972,371 @@
   <image id="243" name="phone_frame79.jpg" width="256" height="455">
   </image>
   <image id="244" name="phone_frame80.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="114.47,154.96;146.13,162.22;156.68,53.41;125.02,52.75" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="114.47,154.96;146.13,162.22;156.68,53.41;125.02,52.75" z_order="0">
     </polygon>
   </image>
   <image id="245" name="phone_frame83.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.00,164.39;33.37,189.25;53.15,161.56;-0.00,124.81" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,164.39;33.37,189.25;53.15,161.56;-0.00,124.81" z_order="0">
     </polygon>
   </image>
   <image id="246" name="phone_frame84.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="115.79,162.88;209.43,52.75;256.00,51.48;256.00,79.66;255.59,87.04;146.13,206.40" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="115.79,162.88;209.43,52.75;256.00,51.48;256.00,79.66;255.59,87.04;146.13,206.40" z_order="0">
     </polygon>
   </image>
   <image id="247" name="phone_frame85.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="51.80,367.30;25.45,289.48;151.40,81.77;177.78,158.26" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="51.80,367.30;25.45,289.48;151.40,81.77;177.78,158.26" z_order="0">
     </polygon>
   </image>
   <image id="248" name="phone_frame87.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="118.43,206.40;0.39,125.29;0.39,71.88;136.23,170.79" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="118.43,206.40;0.39,125.29;0.39,71.88;136.23,170.79" z_order="0">
     </polygon>
   </image>
   <image id="249" name="phone_frame92.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="44.58,168.81;111.18,275.64;130.96,258.49;65.02,153.64" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="44.58,168.81;111.18,275.64;130.96,258.49;65.02,153.64" z_order="0">
     </polygon>
   </image>
   <image id="250" name="phone_frame97.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="121.73,116.72;177.78,220.24;127.29,455.00;91.44,455.00;37.98,453.02" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="121.73,116.72;177.78,220.24;127.29,455.00;91.44,455.00;37.98,453.02" z_order="0">
     </polygon>
   </image>
   <image id="251" name="phone_frame99.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="100.63,325.09;160.63,358.72;158.00,451.04;96.01,420.71" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="100.63,325.09;160.63,358.72;158.00,451.04;96.01,420.71" z_order="0">
     </polygon>
   </image>
   <image id="252" name="snapchat_frame100.jpg" width="256" height="455">
   </image>
   <image id="253" name="snapchat_frame105.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="95.35,308.61;149.42,319.16;181.08,57.37;128.32,52.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="95.35,308.61;149.42,319.16;181.08,57.37;128.32,52.09" z_order="0">
     </polygon>
   </image>
   <image id="254" name="snapchat_frame107.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="144.15,283.55;173.16,241.35;70.29,64.62;41.28,109.46" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="144.15,283.55;173.16,241.35;70.29,64.62;41.28,109.46" z_order="0">
     </polygon>
   </image>
   <image id="255" name="snapchat_frame109.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="1.05,420.05;0.39,352.13;128.98,193.21;150.74,234.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.05,420.05;0.39,352.13;128.98,193.21;150.74,234.09" z_order="0">
     </polygon>
   </image>
   <image id="256" name="snapchat_frame115.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="95.35,315.20;150.08,331.03;158.65,52.75;103.26,51.43" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="95.35,315.20;150.08,331.03;158.65,52.75;103.26,51.43" z_order="0">
     </polygon>
   </image>
   <image id="257" name="snapchat_frame116.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="82.16,302.67;66.34,251.24;183.05,146.39;195.58,187.27" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="82.16,302.67;66.34,251.24;183.05,146.39;195.58,187.27" z_order="0">
     </polygon>
   </image>
   <image id="258" name="snapchat_frame118.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="71.61,120.01;145.18,455.00;151.75,455.00;214.71,441.81;132.28,107.48" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="71.61,120.01;145.18,455.00;151.75,455.00;214.71,441.81;132.28,107.48" z_order="0">
     </polygon>
   </image>
   <image id="259" name="snapchat_frame119.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="106.56,280.91;134.92,298.06;68.97,453.68;36.66,435.88" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="106.56,280.91;134.92,298.06;68.97,453.68;36.66,435.88" z_order="0">
     </polygon>
   </image>
   <image id="260" name="snapchat_frame12.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="169.87,164.19;212.07,151.67;250.97,401.59;202.84,406.20" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="169.87,164.19;212.07,151.67;250.97,401.59;202.84,406.20" z_order="0">
     </polygon>
   </image>
   <image id="261" name="snapchat_frame122.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="212.73,100.89;256.00,128.09;256.00,133.24;17.54,408.84;0.00,390.72;-0.00,341.62" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="212.73,100.89;256.00,128.09;256.00,133.24;17.54,408.84;0.00,390.72;-0.00,341.62" z_order="0">
     </polygon>
   </image>
   <image id="262" name="snapchat_frame124.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="110.52,226.84;165.25,220.24;127.98,455.00;112.57,455.00;72.27,449.72" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="110.52,226.84;165.25,220.24;127.98,455.00;112.57,455.00;72.27,449.72" z_order="0">
     </polygon>
   </image>
   <image id="263" name="snapchat_frame126.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="114.47,106.82;173.16,136.50;104.49,455.00;92.37,455.00;43.26,443.79" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="114.47,106.82;173.16,136.50;104.49,455.00;92.37,455.00;43.26,443.79" z_order="0">
     </polygon>
   </image>
   <image id="264" name="snapchat_frame135.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.00,132.05;99.31,195.85;117.77,138.48;0.00,59.52" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,132.05;99.31,195.85;117.77,138.48;0.00,59.52" z_order="0">
     </polygon>
   </image>
   <image id="265" name="snapchat_frame137.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="65.68,295.42;88.76,343.56;236.47,134.52;207.45,106.82" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="65.68,295.42;88.76,343.56;236.47,134.52;207.45,106.82" z_order="0">
     </polygon>
   </image>
   <image id="266" name="snapchat_frame138.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="128.32,143.09;165.91,185.95;48.53,441.15;0.00,412.79;0.00,406.86" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="128.32,143.09;165.91,185.95;48.53,441.15;0.00,412.79;0.00,406.86" z_order="0">
     </polygon>
   </image>
   <image id="267" name="snapchat_frame148.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="155.36,240.69;129.64,216.29;256.00,85.37;256.00,136.17" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="155.36,240.69;129.64,216.29;256.00,85.37;256.00,136.17" z_order="0">
     </polygon>
   </image>
   <image id="268" name="snapchat_frame158.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="134.30,267.10;185.00,350.20;173.82,450.38;120.72,455.00;113.23,455.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="134.30,267.10;185.00,350.20;173.82,450.38;120.72,455.00;113.23,455.00" z_order="0">
     </polygon>
   </image>
   <image id="269" name="snapchat_frame16.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.39,385.10;199.54,165.51;150.08,131.22;-0.00,276.04;0.00,320.12" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,385.10;199.54,165.51;150.08,131.22;-0.00,276.04;0.00,320.12" z_order="0">
     </polygon>
   </image>
   <image id="270" name="snapchat_frame163.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="72.27,110.12;35.34,156.94;233.83,425.32;256.00,377.00;256.00,364.37" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="72.27,110.12;35.34,156.94;233.83,425.32;256.00,377.00;256.00,364.37" z_order="0">
     </polygon>
   </image>
   <image id="271" name="snapchat_frame164.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="103.26,369.27;171.84,389.72;143.49,52.09;74.91,52.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="103.26,369.27;171.84,389.72;143.49,52.09;74.91,52.09" z_order="0">
     </polygon>
   </image>
   <image id="272" name="snapchat_frame169.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="160.63,383.78;212.07,383.78;190.31,132.54;144.81,136.50" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="160.63,383.78;212.07,383.78;190.31,132.54;144.81,136.50" z_order="0">
     </polygon>
   </image>
   <image id="273" name="snapchat_frame171.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.39,137.82;177.78,238.71;136.89,151.01;0.39,72.53" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,137.82;177.78,238.71;136.89,151.01;0.39,72.53" z_order="0">
     </polygon>
   </image>
   <image id="274" name="snapchat_frame173.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="121.73,114.08;109.20,156.94;256.00,246.73;256.00,191.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="121.73,114.08;109.20,156.94;256.00,246.73;256.00,191.09" z_order="0">
     </polygon>
   </image>
   <image id="275" name="snapchat_frame174.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="63.04,159.58;174.48,398.29;220.64,379.82;101.29,142.43" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="63.04,159.58;174.48,398.29;220.64,379.82;101.29,142.43" z_order="0">
     </polygon>
   </image>
   <image id="276" name="snapchat_frame176.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="43.92,354.11;10.29,331.03;125.68,115.40;158.00,142.43" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="43.92,354.11;10.29,331.03;125.68,115.40;158.00,142.43" z_order="0">
     </polygon>
   </image>
   <image id="277" name="snapchat_frame18.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="-0.00,189.45;173.82,306.63;189.65,245.96;0.00,116.03" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="-0.00,189.45;173.82,306.63;189.65,245.96;0.00,116.03" z_order="0">
     </polygon>
   </image>
   <image id="278" name="snapchat_frame185.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="99.31,227.50;138.87,226.18;123.71,52.09;88.10,53.41" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="99.31,227.50;138.87,226.18;123.71,52.09;88.10,53.41" z_order="0">
     </polygon>
   </image>
   <image id="279" name="snapchat_frame187.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="148.10,239.37;118.43,220.24;256.00,70.88;256.00,121.01" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="148.10,239.37;118.43,220.24;256.00,70.88;256.00,121.01" z_order="0">
     </polygon>
   </image>
   <image id="280" name="snapchat_frame19.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="161.95,236.07;125.02,206.40;256.00,57.27;256.00,128.87" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="161.95,236.07;125.02,206.40;256.00,57.27;256.00,128.87" z_order="0">
     </polygon>
   </image>
   <image id="281" name="snapchat_frame194.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="63.70,58.69;132.28,61.98;172.50,453.68;124.52,455.00;100.56,455.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="63.70,58.69;132.28,61.98;172.50,453.68;124.52,455.00;100.56,455.00" z_order="0">
     </polygon>
   </image>
   <image id="282" name="snapchat_frame195.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="158.66,168.81;217.34,202.44;161.95,455.00;87.44,453.02" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="158.66,168.81;217.34,202.44;161.95,455.00;87.44,453.02" z_order="0">
     </polygon>
   </image>
   <image id="283" name="snapchat_frame197.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="70.29,263.77;107.88,298.06;26.77,433.90;0.00,393.44;0.00,384.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="70.29,263.77;107.88,298.06;26.77,433.90;0.00,393.44;0.00,384.09" z_order="0">
     </polygon>
   </image>
   <image id="284" name="snapchat_frame206.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="103.26,331.03;165.25,325.75;189.65,54.07;132.28,52.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="103.26,331.03;165.25,325.75;189.65,54.07;132.28,52.09" z_order="0">
     </polygon>
   </image>
   <image id="285" name="snapchat_frame208.jpg" width="256" height="455">
   </image>
   <image id="286" name="snapchat_frame210.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="147.44,298.72;185.03,259.81;0.00,142.12;0.00,217.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="147.44,298.72;185.03,259.81;0.00,142.12;0.00,217.09" z_order="0">
     </polygon>
   </image>
   <image id="287" name="snapchat_frame213.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="43.92,158.26;82.82,130.56;214.05,367.95;159.31,396.97" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="43.92,158.26;82.82,130.56;214.05,367.95;159.31,396.97" z_order="0">
     </polygon>
   </image>
   <image id="288" name="snapchat_frame22.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="67.66,271.68;106.56,319.82;250.31,54.07;188.99,51.43" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="67.66,271.68;106.56,319.82;250.31,54.07;188.99,51.43" z_order="0">
     </polygon>
   </image>
   <image id="289" name="snapchat_frame224.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="98.65,207.72;139.53,212.33;136.89,51.43;96.01,53.41" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="98.65,207.72;139.53,212.33;136.89,51.43;96.01,53.41" z_order="0">
     </polygon>
   </image>
   <image id="290" name="snapchat_frame227.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="1.71,151.67;212.07,284.21;188.99,331.69;-0.00,203.28;0.00,196.20" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.71,151.67;212.07,284.21;188.99,331.69;-0.00,203.28;0.00,196.20" z_order="0">
     </polygon>
   </image>
   <image id="291" name="snapchat_frame228.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="198.88,331.03;169.21,381.14;222.62,441.15;256.00,417.39;256.00,406.19" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="198.88,331.03;169.21,381.14;222.62,441.15;256.00,417.39;256.00,406.19" z_order="0">
     </polygon>
   </image>
   <image id="292" name="snapchat_frame229.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="160.63,249.26;140.19,220.24;256.00,147.78;256.00,187.60;255.59,195.19" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="160.63,249.26;140.19,220.24;256.00,147.78;256.00,187.60;255.59,195.19" z_order="0">
     </polygon>
   </image>
   <image id="293" name="snapchat_frame250.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="92.05,310.58;128.32,334.32;222.62,134.52;188.99,110.78" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="92.05,310.58;128.32,334.32;222.62,134.52;188.99,110.78" z_order="0">
     </polygon>
   </image>
   <image id="294" name="snapchat_frame253.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.39,321.14;221.30,102.21;247.02,151.67;1.71,396.97" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,321.14;221.30,102.21;247.02,151.67;1.71,396.97" z_order="0">
     </polygon>
   </image>
   <image id="295" name="snapchat_frame254.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="136.23,327.07;185.69,328.39;236.47,155.62;185.69,161.56" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="136.23,327.07;185.69,328.39;236.47,155.62;185.69,161.56" z_order="0">
     </polygon>
   </image>
   <image id="296" name="snapchat_frame256.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="134.92,296.74;171.84,274.98;76.23,85.06;43.92,100.23" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="134.92,296.74;171.84,274.98;76.23,85.06;43.92,100.23" z_order="0">
     </polygon>
   </image>
   <image id="297" name="snapchat_frame258.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="59.74,198.48;24.13,218.27;146.13,366.64;177.12,345.53" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="59.74,198.48;24.13,218.27;146.13,366.64;177.12,345.53" z_order="0">
     </polygon>
   </image>
   <image id="298" name="snapchat_frame264.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="4.40,422.00;249.65,121.33;195.58,90.34;0.00,332.02;0.00,333.72" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="4.40,422.00;249.65,121.33;195.58,90.34;0.00,332.02;0.00,333.72" z_order="0">
     </polygon>
   </image>
   <image id="299" name="snapchat_frame272.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="12.92,394.33;168.55,230.80;130.96,206.40;0.00,351.80;0.70,381.90" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="12.92,394.33;168.55,230.80;130.96,206.40;0.00,351.80;0.70,381.90" z_order="0">
     </polygon>
   </image>
   <image id="300" name="snapchat_frame275.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="9.60,393.70;67.00,429.90;209.43,114.08;158.65,96.27" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="9.60,393.70;67.00,429.90;209.43,114.08;158.65,96.27" z_order="0">
     </polygon>
   </image>
   <image id="301" name="snapchat_frame276.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="105.24,327.07;150.08,362.68;123.98,455.00;107.15,455.00;68.97,447.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="105.24,327.07;150.08,362.68;123.98,455.00;107.15,455.00;68.97,447.09" z_order="0">
     </polygon>
   </image>
   <image id="302" name="snapchat_frame277.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.00,366.86;128.32,157.60;158.00,206.40;30.70,433.30;0.70,419.20" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,366.86;128.32,157.60;158.00,206.40;30.70,433.30;0.70,419.20" z_order="0">
     </polygon>
   </image>
   <image id="303" name="snapchat_frame278.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="144.81,86.38;197.56,111.44;77.55,435.88;26.11,404.22" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="144.81,86.38;197.56,111.44;77.55,435.88;26.11,404.22" z_order="0">
     </polygon>
   </image>
   <image id="304" name="snapchat_frame280.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="49.85,31.65;44.58,91.00;164.59,230.14;168.55,175.40" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="49.85,31.65;44.58,91.00;164.59,230.14;168.55,175.40" z_order="0">
     </polygon>
   </image>
   <image id="305" name="snapchat_frame282.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="27.43,411.48;0.00,380.22;0.00,377.90;150.08,173.43;178.44,207.72" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="27.43,411.48;0.00,380.22;0.00,377.90;150.08,173.43;178.44,207.72" z_order="0">
     </polygon>
   </image>
   <image id="306" name="snapchat_frame29.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.00,74.10;256.00,307.35;256.00,313.95;219.98,348.17;0.39,153.64;0.00,105.98" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,74.10;256.00,307.35;256.00,313.95;219.98,348.17;0.39,153.64;0.00,105.98" z_order="0">
     </polygon>
   </image>
   <image id="307" name="snapchat_frame290.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.39,300.69;225.92,107.48;256.00,147.80;256.00,154.30;0.00,388.15;0.00,353.07" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,300.69;225.92,107.48;256.00,147.80;256.00,154.30;0.00,388.15;0.00,353.07" z_order="0">
     </polygon>
   </image>
   <image id="308" name="snapchat_frame296.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="70.29,149.03;156.60,324.40;204.80,315.90;106.56,144.41" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="70.29,149.03;156.60,324.40;204.80,315.90;106.56,144.41" z_order="0">
     </polygon>
   </image>
   <image id="309" name="snapchat_frame297.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="82.82,115.40;127.66,300.03;163.93,287.51;115.13,105.51" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="82.82,115.40;127.66,300.03;163.93,287.51;115.13,105.51" z_order="0">
     </polygon>
   </image>
   <image id="310" name="snapchat_frame298.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="58.42,220.90;90.73,271.68;133.60,100.23;97.99,48.80" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="58.42,220.90;90.73,271.68;133.60,100.23;97.99,48.80" z_order="0">
     </polygon>
   </image>
   <image id="311" name="snapchat_frame3.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="41.28,325.09;84.80,360.70;181.08,116.72;142.83,96.27" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="41.28,325.09;84.80,360.70;181.08,116.72;142.83,96.27" z_order="0">
     </polygon>
   </image>
   <image id="312" name="snapchat_frame30.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="47.87,248.60;142.83,309.93;120.41,180.68;39.30,130.56" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="47.87,248.60;142.83,309.93;120.41,180.68;39.30,130.56" z_order="0">
     </polygon>
   </image>
   <image id="313" name="snapchat_frame301.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="91.39,245.30;105.90,290.80;256.00,151.70;256.00,117.20;249.65,104.19" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="91.39,245.30;105.90,290.80;256.00,151.70;256.00,117.20;249.65,104.19" z_order="0">
     </polygon>
   </image>
   <image id="314" name="snapchat_frame304.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="134.26,211.01;169.21,224.20;256.00,75.69;256.00,44.00;243.10,38.20" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="134.26,211.01;169.21,224.20;256.00,75.69;256.00,44.00;243.10,38.20" z_order="0">
     </polygon>
   </image>
   <image id="315" name="snapchat_frame307.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="30.07,22.42;82.16,0.66;128.32,102.21;90.73,143.75" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="30.07,22.42;82.16,0.66;128.32,102.21;90.73,143.75" z_order="0">
     </polygon>
   </image>
   <image id="316" name="snapchat_frame314.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="91.39,159.58;134.92,133.86;181.70,406.90;132.28,439.17" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="91.39,159.58;134.92,133.86;181.70,406.90;132.28,439.17" z_order="0">
     </polygon>
   </image>
   <image id="317" name="snapchat_frame319.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="71.61,167.49;34.02,193.21;189.65,376.53;223.94,350.81" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="71.61,167.49;34.02,193.21;189.65,376.53;223.94,350.81" z_order="0">
     </polygon>
   </image>
   <image id="318" name="snapchat_frame32.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="103.92,211.01;88.10,411.48;127.00,416.09;140.19,212.99" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="103.92,211.01;88.10,411.48;127.00,416.09;140.19,212.99" z_order="0">
     </polygon>
   </image>
   <image id="319" name="snapchat_frame323.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="72.27,164.19;53.15,205.08;256.00,327.18;256.00,271.15" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="72.27,164.19;53.15,205.08;256.00,327.18;256.00,271.15" z_order="0">
     </polygon>
   </image>
   <image id="320" name="snapchat_frame324.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="100.00,197.80;160.63,217.61;111.84,0.66;57.10,10.55" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="100.00,197.80;160.63,217.61;111.84,0.66;57.10,10.55" z_order="0">
     </polygon>
   </image>
   <image id="321" name="snapchat_frame333.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="46.55,304.65;74.91,338.28;220.64,166.83;192.29,138.48" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="46.55,304.65;74.91,338.28;220.64,166.83;192.29,138.48" z_order="0">
     </polygon>
   </image>
   <image id="322" name="snapchat_frame341.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="43.92,416.09;103.90,414.10;177.78,211.01;132.94,211.01" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="43.92,416.09;103.90,414.10;177.78,211.01;132.94,211.01" z_order="0">
     </polygon>
   </image>
   <image id="323" name="snapchat_frame342.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="38.64,249.92;51.83,319.16;256.00,197.71;256.00,118.19" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="38.64,249.92;51.83,319.16;256.00,197.71;256.00,118.19" z_order="0">
     </polygon>
   </image>
   <image id="324" name="snapchat_frame346.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="128.98,168.15;190.31,155.62;111.84,453.68;53.15,445.77" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="128.98,168.15;190.31,155.62;111.84,453.68;53.15,445.77" z_order="0">
     </polygon>
   </image>
   <image id="325" name="snapchat_frame349.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="157.34,126.61;117.11,180.02;152.06,387.08;196.90,313.22" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="157.34,126.61;117.11,180.02;152.06,387.08;196.90,313.22" z_order="0">
     </polygon>
   </image>
   <image id="326" name="snapchat_frame35.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="72.93,178.04;47.87,211.01;210.09,358.06;229.87,319.82" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="72.93,178.04;47.87,211.01;210.09,358.06;229.87,319.82" z_order="0">
     </polygon>
   </image>
   <image id="327" name="snapchat_frame353.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.00,269.53;200.20,143.09;238.44,178.04;0.00,348.17" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,269.53;200.20,143.09;238.44,178.04;0.00,348.17" z_order="0">
     </polygon>
   </image>
   <image id="328" name="snapchat_frame361.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="151.40,314.54;110.52,297.40;199.54,48.14;237.79,67.26" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="151.40,314.54;110.52,297.40;199.54,48.14;237.79,67.26" z_order="0">
     </polygon>
   </image>
   <image id="329" name="snapchat_frame362.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="90.73,179.36;63.04,215.63;161.95,385.10;179.10,331.69" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="90.73,179.36;63.04,215.63;161.95,385.10;179.10,331.69" z_order="0">
     </polygon>
   </image>
   <image id="330" name="snapchat_frame365.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="46.55,262.45;66.34,303.99;256.00,175.80;250.10,132.10" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="46.55,262.45;66.34,303.99;256.00,175.80;250.10,132.10" z_order="0">
     </polygon>
   </image>
   <image id="331" name="snapchat_frame366.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="80.18,119.35;109.86,361.36;155.36,356.74;119.75,120.01" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="80.18,119.35;109.86,361.36;155.36,356.74;119.75,120.01" z_order="0">
     </polygon>
   </image>
   <image id="332" name="snapchat_frame369.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="12.26,75.83;158.00,199.80;130.96,234.09;0.00,113.26;0.00,98.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="12.26,75.83;158.00,199.80;130.96,234.09;0.00,113.26;0.00,98.09" z_order="0">
     </polygon>
   </image>
   <image id="333" name="snapchat_frame37.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="97.99,33.63;114.47,277.61;155.36,267.06;141.51,26.38" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="97.99,33.63;114.47,277.61;155.36,267.06;141.51,26.38" z_order="0">
     </polygon>
   </image>
   <image id="334" name="snapchat_frame380.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="78.21,290.14;136.23,299.38;222.62,15.82;171.18,1.32" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="78.21,290.14;136.23,299.38;222.62,15.82;171.18,1.32" z_order="0">
     </polygon>
   </image>
   <image id="335" name="snapchat_frame381.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="93.37,210.35;146.79,211.01;200.86,11.21;145.47,1.32" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="93.37,210.35;146.79,211.01;200.86,11.21;145.47,1.32" z_order="0">
     </polygon>
   </image>
   <image id="336" name="snapchat_frame386.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.00,139.80;12.26,118.03;177.12,238.05;159.97,272.34;0.00,157.10" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,139.80;12.26,118.03;177.12,238.05;159.97,272.34;0.00,157.10" z_order="0">
     </polygon>
   </image>
   <image id="337" name="snapchat_frame389.jpg" width="256" height="455">
@@ -1344,643 +1344,643 @@
   <image id="338" name="snapchat_frame396.jpg" width="256" height="455">
   </image>
   <image id="339" name="snapchat_frame399.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="15.56,92.98;256.00,330.80;256.00,334.19;216.68,380.48;0.00,161.84;0.00,109.20" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="15.56,92.98;256.00,330.80;256.00,334.19;216.68,380.48;0.00,161.84;0.00,109.20" z_order="0">
     </polygon>
   </image>
   <image id="340" name="snapchat_frame401.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="121.07,83.08;78.21,99.57;131.62,347.51;183.71,327.07" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="121.07,83.08;78.21,99.57;131.62,347.51;183.71,327.07" z_order="0">
     </polygon>
   </image>
   <image id="341" name="snapchat_frame407.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="12.92,115.40;220.64,250.58;202.18,294.10;0.00,158.45;0.00,150.79" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="12.92,115.40;220.64,250.58;202.18,294.10;0.00,158.45;0.00,150.79" z_order="0">
     </polygon>
   </image>
   <image id="342" name="snapchat_frame408.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="141.51,81.11;103.26,83.74;133.60,307.95;178.44,305.97" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="141.51,81.11;103.26,83.74;133.60,307.95;178.44,305.97" z_order="0">
     </polygon>
   </image>
   <image id="343" name="snapchat_frame409.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.39,326.41;125.68,135.84;158.00,187.93;0.39,425.98" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,326.41;125.68,135.84;158.00,187.93;0.39,425.98" z_order="0">
     </polygon>
   </image>
   <image id="344" name="snapchat_frame410.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="148.10,134.52;109.86,171.45;145.47,398.95;182.39,358.72" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="148.10,134.52;109.86,171.45;145.47,398.95;182.39,358.72" z_order="0">
     </polygon>
   </image>
   <image id="345" name="snapchat_frame411.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="1.05,307.29;207.45,93.64;241.70,133.20;25.70,358.50;0.00,342.58" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.05,307.29;207.45,93.64;241.70,133.20;25.70,358.50;0.00,342.58" z_order="0">
     </polygon>
   </image>
   <image id="346" name="snapchat_frame416.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.39,329.05;169.21,206.40;200.86,263.77;0.00,415.89;0.00,381.03" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,329.05;169.21,206.40;200.86,263.77;0.00,415.89;0.00,381.03" z_order="0">
     </polygon>
   </image>
   <image id="347" name="snapchat_frame420.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="74.91,258.49;130.30,266.40;151.40,16.48;86.12,16.48" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="74.91,258.49;130.30,266.40;151.40,16.48;86.12,16.48" z_order="0">
     </polygon>
   </image>
   <image id="348" name="snapchat_frame423.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="86.12,99.57;149.42,102.21;165.91,429.28;108.54,425.32" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="86.12,99.57;149.42,102.21;165.91,429.28;108.54,425.32" z_order="0">
     </polygon>
   </image>
   <image id="349" name="snapchat_frame424.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="182.39,278.93;216.68,300.69;92.05,447.74;62.38,421.37" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="182.39,278.93;216.68,300.69;92.05,447.74;62.38,421.37" z_order="0">
     </polygon>
   </image>
   <image id="350" name="snapchat_frame425.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.00,307.61;39.30,267.06;67.65,291.46;1.05,362.68;0.00,345.83" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,307.61;39.30,267.06;67.65,291.46;1.05,362.68;0.00,345.83" z_order="0">
     </polygon>
   </image>
   <image id="351" name="snapchat_frame427.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="1.71,193.87;180.42,313.88;204.81,283.55;25.45,164.85" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.71,193.87;180.42,313.88;204.81,283.55;25.45,164.85" z_order="0">
     </polygon>
   </image>
   <image id="352" name="snapchat_frame428.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="80.84,139.80;138.87,133.20;219.98,439.17;161.29,451.04" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="80.84,139.80;138.87,133.20;219.98,439.17;161.29,451.04" z_order="0">
     </polygon>
   </image>
   <image id="353" name="snapchat_frame43.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="111.84,313.22;159.97,333.01;82.20,455.00;28.70,443.10" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="111.84,313.22;159.97,333.01;82.20,455.00;28.70,443.10" z_order="0">
     </polygon>
   </image>
   <image id="354" name="snapchat_frame430.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.39,307.95;0.39,377.85;256.00,169.96;256.00,166.57;215.37,137.82" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,307.95;0.39,377.85;256.00,169.96;256.00,166.57;215.37,137.82" z_order="0">
     </polygon>
   </image>
   <image id="355" name="snapchat_frame435.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="68.31,324.43;113.15,351.47;199.54,90.34;161.95,71.88" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="68.31,324.43;113.15,351.47;199.54,90.34;161.95,71.88" z_order="0">
     </polygon>
   </image>
   <image id="356" name="snapchat_frame44.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.00,130.05;109.20,191.89;59.08,87.04;0.00,55.23" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,130.05;109.20,191.89;59.08,87.04;0.00,55.23" z_order="0">
     </polygon>
   </image>
   <image id="357" name="snapchat_frame441.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.00,161.11;160.63,287.51;189.65,236.73;0.00,83.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,161.11;160.63,287.51;189.65,236.73;0.00,83.30" z_order="0">
     </polygon>
   </image>
   <image id="358" name="snapchat_frame444.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="1.05,334.32;256.00,160.23;256.00,156.25;211.41,125.29;1.05,258.49" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.05,334.32;256.00,160.23;256.00,156.25;211.41,125.29;1.05,258.49" z_order="0">
     </polygon>
   </image>
   <image id="359" name="snapchat_frame447.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="12.92,381.80;152.06,219.59;119.75,203.10;0.00,333.60;0.70,370.60" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="12.92,381.80;152.06,219.59;119.75,203.10;0.00,333.60;0.70,370.60" z_order="0">
     </polygon>
   </image>
   <image id="360" name="snapchat_frame449.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="111.18,253.22;153.38,273.66;111.84,453.68;70.29,448.40" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="111.18,253.22;153.38,273.66;111.84,453.68;70.29,448.40" z_order="0">
     </polygon>
   </image>
   <image id="361" name="snapchat_frame450.jpg" width="256" height="455">
   </image>
   <image id="362" name="snapchat_frame46.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="188.33,271.02;163.93,238.05;256.00,149.24;256.00,214.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="188.33,271.02;163.93,238.05;256.00,149.24;256.00,214.00" z_order="0">
     </polygon>
   </image>
   <image id="363" name="snapchat_frame462.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.00,107.64;256.00,260.32;256.00,283.38;255.59,321.14;0.00,173.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,107.64;256.00,260.32;256.00,283.38;255.59,321.14;0.00,173.30" z_order="0">
     </polygon>
   </image>
   <image id="364" name="snapchat_frame463.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="167.89,120.67;130.96,134.52;220.64,339.60;256.00,322.23;256.00,316.19" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="167.89,120.67;130.96,134.52;220.64,339.60;256.00,322.23;256.00,316.19" z_order="0">
     </polygon>
   </image>
   <image id="365" name="snapchat_frame472.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="86.78,274.98;142.17,300.03;202.84,9.23;145.48,0.00;145.47,0.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="86.78,274.98;142.17,300.03;202.84,9.23;145.48,0.00;145.47,0.00" z_order="0">
     </polygon>
   </image>
   <image id="366" name="snapchat_frame474.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.39,332.35;132.94,235.41;105.24,208.38;0.00,286.65;0.00,305.17" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,332.35;132.94,235.41;105.24,208.38;0.00,286.65;0.00,305.17" z_order="0">
     </polygon>
   </image>
   <image id="367" name="snapchat_frame478.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="109.20,290.14;152.06,309.27;227.89,91.00;188.99,75.17" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="109.20,290.14;152.06,309.27;227.89,91.00;188.99,75.17" z_order="0">
     </polygon>
   </image>
   <image id="368" name="snapchat_frame486.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="108.50,271.70;0.00,132.70;0.70,46.10;144.15,222.22" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="108.50,271.70;0.00,132.70;0.70,46.10;144.15,222.22" z_order="0">
     </polygon>
   </image>
   <image id="369" name="snapchat_frame488.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="87.44,158.26;132.94,132.54;194.92,406.86;146.79,425.98" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="87.44,158.26;132.94,132.54;194.92,406.86;146.79,425.98" z_order="0">
     </polygon>
   </image>
   <image id="370" name="snapchat_frame492.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="74.25,314.54;121.73,298.72;163.93,94.95;115.79,114.74" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="74.25,314.54;121.73,298.72;163.93,94.95;115.79,114.74" z_order="0">
     </polygon>
   </image>
   <image id="371" name="snapchat_frame50.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="1.70,295.40;0.00,250.33;0.00,213.04;256.00,42.81;256.00,121.72" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.70,295.40;0.00,250.33;0.00,213.04;256.00,42.81;256.00,121.72" z_order="0">
     </polygon>
   </image>
   <image id="372" name="snapchat_frame59.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="173.16,261.79;136.23,311.90;256.00,425.94;256.00,339.53" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="173.16,261.79;136.23,311.90;256.00,425.94;256.00,339.53" z_order="0">
     </polygon>
   </image>
   <image id="373" name="snapchat_frame8.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="79.52,130.56;134.92,166.17;133.62,455.00;67.22,455.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="79.52,130.56;134.92,166.17;133.62,455.00;67.22,455.00" z_order="0">
     </polygon>
   </image>
   <image id="374" name="snapchat_frame81.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="81.50,308.61;125.68,329.71;229.87,52.09;177.12,51.43" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="81.50,308.61;125.68,329.71;229.87,52.09;177.12,51.43" z_order="0">
     </polygon>
   </image>
   <image id="375" name="snapchat_frame82.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="52.49,251.90;92.05,243.98;46.55,65.94;13.58,66.60" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="52.49,251.90;92.05,243.98;46.55,65.94;13.58,66.60" z_order="0">
     </polygon>
   </image>
   <image id="376" name="snapchat_frame86.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.39,269.70;204.81,130.56;223.28,189.25;0.39,345.53" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,269.70;204.81,130.56;223.28,189.25;0.39,345.53" z_order="0">
     </polygon>
   </image>
   <image id="377" name="snapchat_frame90.jpg" width="256" height="455">
   </image>
   <image id="378" name="snapchat_frame95.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="77.55,406.86;139.53,413.45;151.40,69.90;99.97,64.62" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="77.55,406.86;139.53,413.45;151.40,69.90;99.97,64.62" z_order="0">
     </polygon>
   </image>
   <image id="379" name="snapchat_frame98.jpg" width="256" height="455">
-    <polygon label="blacklist" source="manual" occluded="0" points="0.00,305.16;22.81,348.83;219.98,188.59;193.60,156.28;0.00,304.45" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,305.16;22.81,348.83;219.98,188.59;193.60,156.28;0.00,304.45" z_order="0">
     </polygon>
   </image>
   <image id="380" name="whitelist_frame101.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="120.41,367.96;165.25,373.23;171.84,115.40;130.96,114.74" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="120.41,367.96;165.25,373.23;171.84,115.40;130.96,114.74" z_order="0">
     </polygon>
   </image>
   <image id="381" name="whitelist_frame104.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="49.85,327.07;256.00,197.25;256.00,188.05;246.36,154.30;50.50,272.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="49.85,327.07;256.00,197.25;256.00,188.05;246.36,154.30;50.50,272.30" z_order="0">
     </polygon>
   </image>
   <image id="382" name="whitelist_frame108.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="70.29,125.95;67.00,449.72;125.68,441.15;124.37,120.01" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="70.29,125.95;67.00,449.72;125.68,441.15;124.37,120.01" z_order="0">
     </polygon>
   </image>
   <image id="383" name="whitelist_frame11.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="82.16,77.15;41.28,98.91;150.74,315.86;190.97,295.42" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="82.16,77.15;41.28,98.91;150.74,315.86;190.97,295.42" z_order="0">
     </polygon>
   </image>
   <image id="384" name="whitelist_frame113.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="57.76,128.58;30.73,171.45;240.42,326.41;256.00,284.66;256.00,281.53" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="57.76,128.58;30.73,171.45;240.42,326.41;256.00,284.66;256.00,281.53" z_order="0">
     </polygon>
   </image>
   <image id="385" name="whitelist_frame121.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.39,181.34;154.04,301.35;151.40,224.86;0.39,104.19" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,181.34;154.04,301.35;151.40,224.86;0.39,104.19" z_order="0">
     </polygon>
   </image>
   <image id="386" name="whitelist_frame127.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="84.14,317.84;63.70,276.30;256.00,118.72;256.00,178.81" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="84.14,317.84;63.70,276.30;256.00,118.72;256.00,178.81" z_order="0">
     </polygon>
   </image>
   <image id="387" name="whitelist_frame128.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="25.45,61.32;2.37,114.74;217.34,319.82;245.70,269.04" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="25.45,61.32;2.37,114.74;217.34,319.82;245.70,269.04" z_order="0">
     </polygon>
   </image>
   <image id="388" name="whitelist_frame130.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.00,110.97;210.09,257.17;185.69,298.06;0.00,168.85" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,110.97;210.09,257.17;185.69,298.06;0.00,168.85" z_order="0">
     </polygon>
   </image>
   <image id="389" name="whitelist_frame133.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="108.54,149.03;156.02,148.37;148.76,406.20;106.56,408.84" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="108.54,149.03;156.02,148.37;148.76,406.20;106.56,408.84" z_order="0">
     </polygon>
   </image>
   <image id="390" name="whitelist_frame139.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="78.21,71.88;121.73,62.64;167.89,290.80;127.00,295.42" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="78.21,71.88;121.73,62.64;167.89,290.80;127.00,295.42" z_order="0">
     </polygon>
   </image>
   <image id="391" name="whitelist_frame142.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="131.62,98.91;72.27,112.10;190.97,391.03;249.65,387.74" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="131.62,98.91;72.27,112.10;190.97,391.03;249.65,387.74" z_order="0">
     </polygon>
   </image>
   <image id="392" name="whitelist_frame146.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="194.26,388.40;229.87,357.40;61.72,147.05;28.09,182.66" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="194.26,388.40;229.87,357.40;61.72,147.05;28.09,182.66" z_order="0">
     </polygon>
   </image>
   <image id="393" name="whitelist_frame147.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="59.74,313.88;102.60,330.37;187.67,91.66;150.08,89.02" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="59.74,313.88;102.60,330.37;187.67,91.66;150.08,89.02" z_order="0">
     </polygon>
   </image>
   <image id="394" name="whitelist_frame151.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="55.13,69.90;119.75,263.77;156.02,245.30;84.80,57.37" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="55.13,69.90;119.75,263.77;156.02,245.30;84.80,57.37" z_order="0">
     </polygon>
   </image>
   <image id="395" name="whitelist_frame154.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="18.86,340.26;56.44,360.70;186.35,187.93;154.70,173.43" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="18.86,340.26;56.44,360.70;186.35,187.93;154.70,173.43" z_order="0">
     </polygon>
   </image>
   <image id="396" name="whitelist_frame156.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="107.88,413.46;156.02,424.66;206.13,156.94;163.27,151.67" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="107.88,413.46;156.02,424.66;206.13,156.94;163.27,151.67" z_order="0">
     </polygon>
   </image>
   <image id="397" name="whitelist_frame160.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="70.95,287.51;94.69,330.37;256.00,124.25;256.00,112.15;232.51,83.74" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="70.95,287.51;94.69,330.37;256.00,124.25;256.00,112.15;232.51,83.74" z_order="0">
     </polygon>
   </image>
   <image id="398" name="whitelist_frame166.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="103.92,104.85;72.93,144.41;229.87,366.64;256.00,334.64;256.00,318.39" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="103.92,104.85;72.93,144.41;229.87,366.64;256.00,334.64;256.00,318.39" z_order="0">
     </polygon>
   </image>
   <image id="399" name="whitelist_frame175.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="48.53,354.11;94.03,381.14;219.32,100.23;173.82,85.72" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="48.53,354.11;94.03,381.14;219.32,100.23;173.82,85.72" z_order="0">
     </polygon>
   </image>
   <image id="400" name="whitelist_frame177.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="14.24,346.85;53.15,369.27;192.30,165.50;156.02,145.07" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="14.24,346.85;53.15,369.27;192.30,165.50;156.02,145.07" z_order="0">
     </polygon>
   </image>
   <image id="401" name="whitelist_frame179.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="124.37,89.68;171.18,79.13;189.65,342.24;144.81,344.22" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="124.37,89.68;171.18,79.13;189.65,342.24;144.81,344.22" z_order="0">
     </polygon>
   </image>
   <image id="402" name="whitelist_frame181.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="86.78,137.82;41.28,146.39;140.85,396.31;185.03,375.21" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="86.78,137.82;41.28,146.39;140.85,396.31;185.03,375.21" z_order="0">
     </polygon>
   </image>
   <image id="403" name="whitelist_frame182.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="37.98,282.23;60.40,316.52;250.97,162.22;223.94,136.50" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="37.98,282.23;60.40,316.52;250.97,162.22;223.94,136.50" z_order="0">
     </polygon>
   </image>
   <image id="404" name="whitelist_frame184.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="20.18,364.66;54.47,389.72;213.39,178.04;175.80,159.58" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="20.18,364.66;54.47,389.72;213.39,178.04;175.80,159.58" z_order="0">
     </polygon>
   </image>
   <image id="405" name="whitelist_frame186.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="97.33,267.06;132.28,288.82;209.43,53.41;173.16,51.43" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="97.33,267.06;132.28,288.82;209.43,53.41;173.16,51.43" z_order="0">
     </polygon>
   </image>
   <image id="406" name="whitelist_frame192.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="105.90,227.50;240.42,427.96;203.50,455.00;67.00,245.96" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="105.90,227.50;240.42,427.96;203.50,455.00;67.00,245.96" z_order="0">
     </polygon>
   </image>
   <image id="407" name="whitelist_frame193.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="73.59,123.31;207.45,341.58;171.18,362.68;36.00,141.11" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="73.59,123.31;207.45,341.58;171.18,362.68;36.00,141.11" z_order="0">
     </polygon>
   </image>
   <image id="408" name="whitelist_frame2.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="74.91,346.19;114.47,358.72;169.87,118.03;134.92,107.48" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="74.91,346.19;114.47,358.72;169.87,118.03;134.92,107.48" z_order="0">
     </polygon>
   </image>
   <image id="409" name="whitelist_frame205.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="101.29,274.32;139.53,290.80;211.41,56.05;177.12,52.75" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="101.29,274.32;139.53,290.80;211.41,56.05;177.12,52.75" z_order="0">
     </polygon>
   </image>
   <image id="410" name="whitelist_frame207.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="20.84,373.23;57.10,396.31;187.67,195.85;153.38,182.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="20.84,373.23;57.10,396.31;187.67,195.85;153.38,182.00" z_order="0">
     </polygon>
   </image>
   <image id="411" name="whitelist_frame216.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="73.59,403.56;119.75,425.98;191.63,167.49;150.74,159.58" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="73.59,403.56;119.75,425.98;191.63,167.49;150.74,159.58" z_order="0">
     </polygon>
   </image>
   <image id="412" name="whitelist_frame218.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="34.68,401.58;82.16,427.30;186.35,132.54;140.85,120.01" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="34.68,401.58;82.16,427.30;186.35,132.54;140.85,120.01" z_order="0">
     </polygon>
   </image>
   <image id="413" name="whitelist_frame219.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.00,357.48;30.73,384.44;208.11,184.64;174.48,166.17;0.00,354.38" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,357.48;30.73,384.44;208.11,184.64;174.48,166.17;0.00,354.38" z_order="0">
     </polygon>
   </image>
   <image id="414" name="whitelist_frame222.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="109.20,88.36;158.65,96.27;183.05,344.88;133.60,322.45" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="109.20,88.36;158.65,96.27;183.05,344.88;133.60,322.45" z_order="0">
     </polygon>
   </image>
   <image id="415" name="whitelist_frame223.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="113.81,238.71;153.38,254.53;194.26,52.09;155.36,52.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="113.81,238.71;153.38,254.53;194.26,52.09;155.36,52.09" z_order="0">
     </polygon>
   </image>
   <image id="416" name="whitelist_frame225.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="39.30,331.69;35.34,435.88;148.76,299.38;142.17,228.82" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="39.30,331.69;35.34,435.88;148.76,299.38;142.17,228.82" z_order="0">
     </polygon>
   </image>
   <image id="417" name="whitelist_frame23.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.00,322.95;216.02,189.91;190.31,134.52;0.00,245.15" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,322.95;216.02,189.91;190.31,134.52;0.00,245.15" z_order="0">
     </polygon>
   </image>
   <image id="418" name="whitelist_frame231.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="52.49,397.63;101.94,400.27;130.96,154.30;89.42,144.41" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="52.49,397.63;101.94,400.27;130.96,154.30;89.42,144.41" z_order="0">
     </polygon>
   </image>
   <image id="419" name="whitelist_frame232.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.39,288.17;55.13,269.04;66.34,52.09;17.54,52.75" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,288.17;55.13,269.04;66.34,52.09;17.54,52.75" z_order="0">
     </polygon>
   </image>
   <image id="420" name="whitelist_frame235.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.39,360.70;163.27,255.19;136.23,216.95;0.39,296.74" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,360.70;163.27,255.19;136.23,216.95;0.39,296.74" z_order="0">
     </polygon>
   </image>
   <image id="421" name="whitelist_frame236.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="46.55,373.89;85.46,394.99;221.96,173.43;182.39,158.26" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="46.55,373.89;85.46,394.99;221.96,173.43;182.39,158.26" z_order="0">
     </polygon>
   </image>
   <image id="422" name="whitelist_frame238.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="1.71,414.11;250.31,180.68;201.52,149.03;-0.00,324.29;0.00,356.31" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.71,414.11;250.31,180.68;201.52,149.03;-0.00,324.29;0.00,356.31" z_order="0">
     </polygon>
   </image>
   <image id="423" name="whitelist_frame24.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="1.05,343.56;206.79,172.77;181.73,139.14;0.00,278.38;0.00,318.01" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.05,343.56;206.79,172.77;181.73,139.14;0.00,278.38;0.00,318.01" z_order="0">
     </polygon>
   </image>
   <image id="424" name="whitelist_frame241.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="1.05,387.74;188.30,201.80;150.74,174.74;0.00,320.90;0.00,352.62" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="1.05,387.74;188.30,201.80;150.74,174.74;0.00,320.90;0.00,352.62" z_order="0">
     </polygon>
   </image>
   <image id="425" name="whitelist_frame243.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="99.31,207.06;150.08,191.23;105.90,52.09;57.76,52.09" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="99.31,207.06;150.08,191.23;105.90,52.09;57.76,52.09" z_order="0">
     </polygon>
   </image>
   <image id="426" name="whitelist_frame245.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.00,332.19;215.37,205.08;192.94,165.51;0.00,279.01" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,332.19;215.37,205.08;192.94,165.51;0.00,279.01" z_order="0">
     </polygon>
   </image>
   <image id="427" name="whitelist_frame246.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="41.28,112.10;241.08,265.74;220.64,309.27;22.81,149.69" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="41.28,112.10;241.08,265.74;220.64,309.27;22.81,149.69" z_order="0">
     </polygon>
   </image>
   <image id="428" name="whitelist_frame247.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="28.09,302.01;61.72,339.60;256.00,154.07;256.00,122.49;235.81,109.46" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="28.09,302.01;61.72,339.60;256.00,154.07;256.00,122.49;235.81,109.46" z_order="0">
     </polygon>
   </image>
   <image id="429" name="whitelist_frame249.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="69.63,68.58;25.45,78.47;112.50,317.84;150.74,301.35" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="69.63,68.58;25.45,78.47;112.50,317.84;150.74,301.35" z_order="0">
     </polygon>
   </image>
   <image id="430" name="whitelist_frame257.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="104.58,154.96;59.74,162.88;126.34,406.86;167.23,390.38" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="104.58,154.96;59.74,162.88;126.34,406.86;167.23,390.38" z_order="0">
     </polygon>
   </image>
   <image id="431" name="whitelist_frame261.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="125.68,104.85;84.80,136.50;173.16,358.06;210.09,329.71" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="125.68,104.85;84.80,136.50;173.16,358.06;210.09,329.71" z_order="0">
     </polygon>
   </image>
   <image id="432" name="whitelist_frame268.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="24.79,264.43;56.44,297.40;249.70,105.50;218.00,72.53" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="24.79,264.43;56.44,297.40;249.70,105.50;218.00,72.53" z_order="0">
     </polygon>
   </image>
   <image id="433" name="whitelist_frame28.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="84.14,277.61;125.68,290.14;195.58,65.94;154.70,63.96" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="84.14,277.61;125.68,290.14;195.58,65.94;154.70,63.96" z_order="0">
     </polygon>
   </image>
   <image id="434" name="whitelist_frame287.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="60.40,309.93;106.56,311.24;194.26,70.56;149.42,64.62" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="60.40,309.93;106.56,311.24;194.26,70.56;149.42,64.62" z_order="0">
     </polygon>
   </image>
   <image id="435" name="whitelist_frame291.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="16.22,282.89;49.85,305.31;224.60,174.74;188.99,151.67" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="16.22,282.89;49.85,305.31;224.60,174.74;188.99,151.67" z_order="0">
     </polygon>
   </image>
   <image id="436" name="whitelist_frame292.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="107.22,139.14;256.00,297.01;256.00,348.93;255.59,358.06;71.61,168.81" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="107.22,139.14;256.00,297.01;256.00,348.93;255.59,358.06;71.61,168.81" z_order="0">
     </polygon>
   </image>
   <image id="437" name="whitelist_frame295.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="142.83,146.39;175.80,180.02;16.22,386.42;0.00,377.75;0.00,336.64" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="142.83,146.39;175.80,180.02;16.22,386.42;0.00,377.75;0.00,336.64" z_order="0">
     </polygon>
   </image>
   <image id="438" name="whitelist_frame299.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="106.60,275.00;146.10,284.20;165.91,63.96;130.30,63.96" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="106.60,275.00;146.10,284.20;165.91,63.96;130.30,63.96" z_order="0">
     </polygon>
   </image>
   <image id="439" name="whitelist_frame308.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="92.71,313.88;138.87,300.69;107.88,63.30;65.02,64.62" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="92.71,313.88;138.87,300.69;107.88,63.30;65.02,64.62" z_order="0">
     </polygon>
   </image>
   <image id="440" name="whitelist_frame309.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="78.87,396.97;128.32,381.14;126.30,111.40;76.90,122.70" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="78.87,396.97;128.32,381.14;126.30,111.40;76.90,122.70" z_order="0">
     </polygon>
   </image>
   <image id="441" name="whitelist_frame310.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="88.76,296.74;130.96,309.27;186.35,65.94;144.15,62.64" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="88.76,296.74;130.96,309.27;186.35,65.94;144.15,62.64" z_order="0">
     </polygon>
   </image>
   <image id="442" name="whitelist_frame311.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="86.78,296.74;135.58,284.87;128.98,63.96;91.39,63.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="86.78,296.74;135.58,284.87;128.98,63.96;91.39,63.30" z_order="0">
     </polygon>
   </image>
   <image id="443" name="whitelist_frame315.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="80.84,100.23;133.60,100.89;142.17,400.27;90.08,409.50" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="80.84,100.23;133.60,100.89;142.17,400.27;90.08,409.50" z_order="0">
     </polygon>
   </image>
   <image id="444" name="whitelist_frame317.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="136.89,308.61;185.69,311.24;173.16,63.96;130.96,64.62" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="136.89,308.61;185.69,311.24;173.16,63.96;130.96,64.62" z_order="0">
     </polygon>
   </image>
   <image id="445" name="whitelist_frame318.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="147.44,339.60;186.35,315.20;80.20,87.70;36.00,103.53" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="147.44,339.60;186.35,315.20;80.20,87.70;36.00,103.53" z_order="0">
     </polygon>
   </image>
   <image id="446" name="whitelist_frame321.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.00,199.01;169.21,295.42;175.80,253.22;0.00,153.51" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,199.01;169.21,295.42;175.80,253.22;0.00,153.51" z_order="0">
     </polygon>
   </image>
   <image id="447" name="whitelist_frame322.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="100.63,418.73;154.04,408.18;123.05,111.44;72.27,114.08" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="100.63,418.73;154.04,408.18;123.05,111.44;72.27,114.08" z_order="0">
     </polygon>
   </image>
   <image id="448" name="whitelist_frame326.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="118.43,282.89;160.63,288.17;137.55,63.30;98.65,62.64" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="118.43,282.89;160.63,288.17;137.55,63.30;98.65,62.64" z_order="0">
     </polygon>
   </image>
   <image id="449" name="whitelist_frame328.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="82.82,120.67;241.08,316.52;202.84,342.90;43.26,141.11" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="82.82,120.67;241.08,316.52;202.84,342.90;43.26,141.11" z_order="0">
     </polygon>
   </image>
   <image id="450" name="whitelist_frame334.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="154.70,298.72;8.97,93.64;49.19,74.51;194.26,274.98" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="154.70,298.72;8.97,93.64;49.19,74.51;194.26,274.98" z_order="0">
     </polygon>
   </image>
   <image id="451" name="whitelist_frame335.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.40,362.70;90.08,289.48;122.39,329.71;0.00,432.46;0.00,380.50" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.40,362.70;90.08,289.48;122.39,329.71;0.00,432.46;0.00,380.50" z_order="0">
     </polygon>
   </image>
   <image id="452" name="whitelist_frame337.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="185.03,309.27;206.79,264.43;8.31,146.39;0.00,159.83;0.00,191.63" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="185.03,309.27;206.79,264.43;8.31,146.39;0.00,159.83;0.00,191.63" z_order="0">
     </polygon>
   </image>
   <image id="453" name="whitelist_frame343.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="106.56,314.54;156.68,281.57;66.34,63.96;20.18,63.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="106.56,314.54;156.68,281.57;66.34,63.96;20.18,63.30" z_order="0">
     </polygon>
   </image>
   <image id="454" name="whitelist_frame348.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.39,314.54;251.63,156.94;216.02,120.01;0.00,255.70;0.00,277.92" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.39,314.54;251.63,156.94;216.02,120.01;0.00,255.70;0.00,277.92" z_order="0">
     </polygon>
   </image>
   <image id="455" name="whitelist_frame352.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="92.71,102.87;128.32,89.68;187.67,325.09;145.47,333.01" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="92.71,102.87;128.32,89.68;187.67,325.09;145.47,333.01" z_order="0">
     </polygon>
   </image>
   <image id="456" name="whitelist_frame364.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="98.65,377.19;146.79,357.40;103.92,112.10;63.04,122.65" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="98.65,377.19;146.79,357.40;103.92,112.10;63.04,122.65" z_order="0">
     </polygon>
   </image>
   <image id="457" name="whitelist_frame374.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="102.60,156.94;141.51,158.26;151.40,371.91;115.13,371.25" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="102.60,156.94;141.51,158.26;151.40,371.91;115.13,371.25" z_order="0">
     </polygon>
   </image>
   <image id="458" name="whitelist_frame382.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="128.32,290.80;175.80,279.59;115.13,63.96;70.95,63.30" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="128.32,290.80;175.80,279.59;115.13,63.96;70.95,63.30" z_order="0">
     </polygon>
   </image>
   <image id="459" name="whitelist_frame385.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="89.42,455.00;158.00,212.30;205.47,220.24;142.35,455.00;89.57,455.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="89.42,455.00;158.00,212.30;205.47,220.24;142.35,455.00;89.57,455.00" z_order="0">
     </polygon>
   </image>
   <image id="460" name="whitelist_frame387.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="69.00,343.60;152.72,108.14;192.29,116.72;117.77,348.17" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="69.00,343.60;152.72,108.14;192.29,116.72;117.77,348.17" z_order="0">
     </polygon>
   </image>
   <image id="461" name="whitelist_frame402.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="101.29,270.36;152.72,232.11;182.40,59.30;136.90,84.40" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="101.29,270.36;152.72,232.11;182.40,59.30;136.90,84.40" z_order="0">
     </polygon>
   </image>
   <image id="462" name="whitelist_frame404.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="29.40,81.10;194.26,314.54;244.38,290.80;69.60,50.10" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="29.40,81.10;194.26,314.54;244.38,290.80;69.60,50.10" z_order="0">
     </polygon>
   </image>
   <image id="463" name="whitelist_frame413.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="20.18,76.49;139.53,303.99;187.01,273.00;54.47,56.05" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="20.18,76.49;139.53,303.99;187.01,273.00;54.47,56.05" z_order="0">
     </polygon>
   </image>
   <image id="464" name="whitelist_frame415.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="114.47,334.98;158.65,337.62;186.40,80.40;141.51,84.40" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="114.47,334.98;158.65,337.62;186.40,80.40;141.51,84.40" z_order="0">
     </polygon>
   </image>
   <image id="465" name="whitelist_frame418.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="122.40,132.50;168.50,145.10;107.88,388.40;65.68,378.51" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="122.40,132.50;168.50,145.10;107.88,388.40;65.68,378.51" z_order="0">
     </polygon>
   </image>
   <image id="466" name="whitelist_frame426.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="106.56,339.60;150.08,356.09;202.84,100.23;159.97,92.32" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="106.56,339.60;150.08,356.09;202.84,100.23;159.97,92.32" z_order="0">
     </polygon>
   </image>
   <image id="467" name="whitelist_frame432.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="21.50,372.57;61.06,393.67;187.67,160.24;150.08,143.75" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="21.50,372.57;61.06,393.67;187.67,160.24;150.08,143.75" z_order="0">
     </polygon>
   </image>
   <image id="468" name="whitelist_frame436.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="74.25,330.37;116.45,350.81;202.80,102.90;158.65,88.36" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="74.25,330.37;116.45,350.81;202.80,102.90;158.65,88.36" z_order="0">
     </polygon>
   </image>
   <image id="469" name="whitelist_frame438.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="121.07,116.72;166.57,107.48;175.80,357.40;132.28,361.36" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="121.07,116.72;166.57,107.48;175.80,357.40;132.28,361.36" z_order="0">
     </polygon>
   </image>
   <image id="470" name="whitelist_frame440.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="83.48,274.32;106.56,317.18;256.00,171.50;256.00,115.43;251.63,109.46" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="83.48,274.32;106.56,317.18;256.00,171.50;256.00,115.43;251.63,109.46" z_order="0">
     </polygon>
   </image>
   <image id="471" name="whitelist_frame443.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="155.36,117.38;210.09,109.46;207.45,425.32;154.04,424.66" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="155.36,117.38;210.09,109.46;207.45,425.32;154.04,424.66" z_order="0">
     </polygon>
   </image>
   <image id="472" name="whitelist_frame445.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.00,276.12;160.63,169.47;176.46,204.42;0.00,325.12" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,276.12;160.63,169.47;176.46,204.42;0.00,325.12" z_order="0">
     </polygon>
   </image>
   <image id="473" name="whitelist_frame45.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="11.60,296.74;38.00,336.30;251.60,187.20;219.30,153.60" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="11.60,296.74;38.00,336.30;251.60,187.20;219.30,153.60" z_order="0">
     </polygon>
   </image>
   <image id="474" name="whitelist_frame451.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="38.64,189.25;2.37,218.93;217.34,361.36;242.40,325.75" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="38.64,189.25;2.37,218.93;217.34,361.36;242.40,325.75" z_order="0">
     </polygon>
   </image>
   <image id="475" name="whitelist_frame452.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="63.70,96.93;20.20,133.90;138.21,395.65;173.82,349.49" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="63.70,96.93;20.20,133.90;138.21,395.65;173.82,349.49" z_order="0">
     </polygon>
   </image>
   <image id="476" name="whitelist_frame467.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.00,118.50;66.34,234.09;107.88,216.95;0.70,33.90" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,118.50;66.34,234.09;107.88,216.95;0.70,33.90" z_order="0">
     </polygon>
   </image>
   <image id="477" name="whitelist_frame47.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="62.38,373.23;96.01,404.22;211.40,184.60;175.80,163.53" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="62.38,373.23;96.01,404.22;211.40,184.60;175.80,163.53" z_order="0">
     </polygon>
   </image>
   <image id="478" name="whitelist_frame470.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.00,291.50;28.09,325.75;225.92,160.90;195.58,132.54" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,291.50;28.09,325.75;225.92,160.90;195.58,132.54" z_order="0">
     </polygon>
   </image>
   <image id="479" name="whitelist_frame473.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="107.22,72.53;153.38,94.30;113.15,338.94;70.95,323.77" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="107.22,72.53;153.38,94.30;113.15,338.94;70.95,323.77" z_order="0">
     </polygon>
   </image>
   <image id="480" name="whitelist_frame476.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="103.26,142.43;150.08,141.11;154.70,418.07;107.88,421.37" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="103.26,142.43;150.08,141.11;154.70,418.07;107.88,421.37" z_order="0">
     </polygon>
   </image>
   <image id="481" name="whitelist_frame484.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="72.30,127.30;255.59,315.20;219.32,352.13;36.00,167.49" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="72.30,127.30;255.59,315.20;219.32,352.13;36.00,167.49" z_order="0">
     </polygon>
   </image>
   <image id="482" name="whitelist_frame485.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="66.34,155.62;107.22,315.20;216.68,360.70;161.95,203.76" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="66.34,155.62;107.22,315.20;216.68,360.70;161.95,203.76" z_order="0">
     </polygon>
   </image>
   <image id="483" name="whitelist_frame489.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="24.79,95.61;198.88,305.31;163.27,352.13;-0.00,148.92;0.00,111.29" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="24.79,95.61;198.88,305.31;163.27,352.13;-0.00,148.92;0.00,111.29" z_order="0">
     </polygon>
   </image>
   <image id="484" name="whitelist_frame49.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="0.00,174.95;177.78,314.54;204.15,269.70;-0.00,114.94" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="0.00,174.95;177.78,314.54;204.15,269.70;-0.00,114.94" z_order="0">
     </polygon>
   </image>
   <image id="485" name="whitelist_frame491.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="112.50,364.00;157.34,367.30;163.27,111.44;121.07,109.46" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="112.50,364.00;157.34,367.30;163.27,111.44;121.07,109.46" z_order="0">
     </polygon>
   </image>
   <image id="486" name="whitelist_frame496.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="111.18,330.37;154.70,344.88;192.90,104.80;149.42,96.27" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="111.18,330.37;154.70,344.88;192.90,104.80;149.42,96.27" z_order="0">
     </polygon>
   </image>
   <image id="487" name="whitelist_frame52.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="99.97,283.55;136.23,313.22;256.00,91.80;256.00,80.30;220.00,60.00" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="99.97,283.55;136.23,313.22;256.00,91.80;256.00,80.30;220.00,60.00" z_order="0">
     </polygon>
   </image>
   <image id="488" name="whitelist_frame54.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="136.20,38.20;186.35,27.69;177.12,321.80;130.96,322.45" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="136.20,38.20;186.35,27.69;177.12,321.80;130.96,322.45" z_order="0">
     </polygon>
   </image>
   <image id="489" name="whitelist_frame55.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="61.72,202.44;86.12,240.03;256.00,137.38;256.00,82.64;254.93,79.79" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="61.72,202.44;86.12,240.03;256.00,137.38;256.00,82.64;254.93,79.79" z_order="0">
     </polygon>
   </image>
   <image id="490" name="whitelist_frame61.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="126.34,139.80;152.72,398.95;199.54,404.22;171.84,136.50" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="126.34,139.80;152.72,398.95;199.54,404.22;171.84,136.50" z_order="0">
     </polygon>
   </image>
   <image id="491" name="whitelist_frame65.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="34.68,266.40;68.31,307.95;256.00,142.52;256.00,61.86" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="34.68,266.40;68.31,307.95;256.00,142.52;256.00,61.86" z_order="0">
     </polygon>
   </image>
   <image id="492" name="whitelist_frame67.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="12.90,342.20;218.00,188.59;175.14,156.94;0.00,295.80;0.00,337.80" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="12.90,342.20;218.00,188.59;175.14,156.94;0.00,295.80;0.00,337.80" z_order="0">
     </polygon>
   </image>
   <image id="493" name="whitelist_frame7.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="33.40,171.40;183.10,393.70;210.75,351.47;74.91,151.67" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="33.40,171.40;183.10,393.70;210.75,351.47;74.91,151.67" z_order="0">
     </polygon>
   </image>
   <image id="494" name="whitelist_frame74.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="65.02,143.09;254.27,305.31;222.62,339.60;38.64,174.74" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="65.02,143.09;254.27,305.31;222.62,339.60;38.64,174.74" z_order="0">
     </polygon>
   </image>
   <image id="495" name="whitelist_frame76.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="94.03,321.80;137.55,331.03;171.18,80.45;128.98,77.15" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="94.03,321.80;137.55,331.03;171.18,80.45;128.98,77.15" z_order="0">
     </polygon>
   </image>
   <image id="496" name="whitelist_frame89.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="10.29,362.02;170.52,221.56;155.36,185.95;3.03,321.14" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="10.29,362.02;170.52,221.56;155.36,185.95;3.03,321.14" z_order="0">
     </polygon>
   </image>
   <image id="497" name="whitelist_frame91.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="114.47,184.64;88.76,216.95;227.90,385.70;246.40,347.50" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="114.47,184.64;88.76,216.95;227.90,385.70;246.40,347.50" z_order="0">
     </polygon>
   </image>
   <image id="498" name="whitelist_frame94.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="132.28,302.67;159.31,267.72;0.00,130.81;0.00,194.50" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="132.28,302.67;159.31,267.72;0.00,130.81;0.00,194.50" z_order="0">
     </polygon>
   </image>
   <image id="499" name="whitelist_frame96.jpg" width="256" height="455">
-    <polygon label="whitelist" source="manual" occluded="0" points="37.98,334.32;71.61,362.02;218.70,149.70;183.10,128.60" z_order="0">
+    <polygon label="phone" source="manual" occluded="0" points="37.98,334.32;71.61,362.02;218.70,149.70;183.10,128.60" z_order="0">
     </polygon>
   </image>
 </annotations>

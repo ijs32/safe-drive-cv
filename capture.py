@@ -1,30 +1,13 @@
 import numpy as np
 import cv2, torch, sys
-import torchvision.transforms as T
-
-def add_noise(inputs,noise_factor=0.1):
-        """
-        Function to add noise to photos in order to help model better generalize
-        """ 
-        transforms = T.Compose([
-            T.ToTensor(),
-            T.RandomHorizontalFlip(p=0.5),
-            T.RandomVerticalFlip(p=0.5),
-            T.RandomRotation(60)
-        ])
-        inputs = transforms(inputs)
-        
-        noisy = inputs+torch.randn_like(inputs) * noise_factor
-        noisy = torch.clip(noisy,0.,1.)
-        return noisy
-
+import utils.image_preprocessing as ip
 
 def main(type):
     vidcap = cv2.VideoCapture(0)
-    success,image = vidcap.read()
+    _, image = vidcap.read()
     for i in range(1000):
 
-        noise_tensor = add_noise(image)
+        noise_tensor = ip.add_noise(image)
         array = noise_tensor.numpy()
         noise_img = (array.transpose((1,2,0)) * 255).astype(np.uint8)
 
@@ -38,7 +21,7 @@ def main(type):
         cv2.imshow('frame',resized_img)
         cv2.imwrite(f"./training_data/combined/{type}_frame{i}.jpg", resized_img) # save the img 
 
-        success,image = vidcap.read()
+        _, image = vidcap.read()
         print('Read a new frame: ', i)
 
 if __name__ == "__main__":
