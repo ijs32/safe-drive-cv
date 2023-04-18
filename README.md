@@ -79,14 +79,14 @@ copy and paste the following list of commands all at once
 ```
 mkdir DriveMate
 cd DriveMate
-git clone https://github.com/ijs32/future-NSA-backdoor.git
+git clone https://github.com/ijs32/safedriveCV.git
 ```
 if you now run the command `pwd` you will see you are in the directory `/Users/your-name/DriveMate`
-if you run `ls` you will see a new folder called `future-NSA-backdoor`, this is the project folder.
+if you run `ls` you will see a new folder called `savedriveCV`, this is the project folder.
 
 now: 
 ```
-cd future-NSA-backdoor
+cd savedriveCV
 pipenv shell
 pipenv install
 ```
@@ -95,4 +95,4 @@ and you're done, you are now in the project folder and everything is installed. 
 
 ## Suggestions
 
-I would suggest opening your browser and searching for VScode. its the easiest and most used code editor. Once its installed, open it and press `Command + Shift + P` this will open a little search bar at the top, type command `Shell command` and select the install option. Now, when you open your terminal and `cd DriveMate/future-NSA-backdoor` to this project, you can type the command `code .` to open the folder in VScode. Its good to learn to use the terminal because you'll be using it to run any files with `python filename.py`.
+I would suggest opening your browser and searching for VScode. its the easiest and most used code editor. Once its installed, open it and press `Command + Shift + P` this will open a little search bar at the top, type command `Shell command` and select the install option. Now, when you open your terminal and `cd DriveMate/safedriveCV` to this project, you can type the command `code .` to open the folder in VScode. Its good to learn to use the terminal because you'll be using it to run any files with `python filename.py`.
