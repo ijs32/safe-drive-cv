@@ -2,8 +2,4 @@
 
 /src/runs/*
 
-/src/saved_models/*
-
-/src/training_data/classification_training_data/*
-
-/src/training_data/segmentation_training_data/*
+/src/training_data/*

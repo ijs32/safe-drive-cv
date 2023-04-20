@@ -8,7 +8,7 @@ def main(type):
 
         resized_img = ip.pre_process(image)
         
-        cv2.imwrite(f"./training_data/classification_training_data/{type}_frame{i}.jpg", resized_img) # save the img 
+        cv2.imwrite(f"../training_data/training_data/{type}_frame{i}.jpg", resized_img) # save the img 
         cv2.imshow('frame',resized_img)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break

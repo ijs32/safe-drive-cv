@@ -14,8 +14,10 @@ class StackModels():
 
     
     def run_models(self, frame):
+        """Runs the object detection and classification models on a frame."""
         bbox, cellphone = self._detect_phone(frame)
         
+        # If a cell phone is detected, run the classification model.
         if cellphone:
             allowed = self._classify_phone_use(bbox)
             if not allowed:
@@ -23,17 +25,20 @@ class StackModels():
 
     def _detect_phone(self, frame):
         """Detects a cell phone in a frame and returns the cropped image of the cell phone."""
-        # Step 1: Initialize model with the best available weights
+        
+        # Apply preprocessing to the frame
         preprocess = self.object_detection_weights.transforms()
-
         batch = [preprocess(frame)]
 
+        # Draw bounding boxes around the detected objects
         prediction = self.object_detection_model(batch)[0]
         labels = [self.object_detection_weights.meta["categories"][i] for i in prediction["labels"]]
         box = draw_bounding_boxes(frame, boxes=prediction["boxes"],
                                 labels=labels,
                                 colors="red",
                                 width=4)
+        
+        # Crop the cell phone from the frame
         for prediction, label in zip(prediction["boxes"], labels):
             if label == "cell phone":
                 bbox = (prediction).int()
@@ -50,8 +55,10 @@ class StackModels():
         return to_pil_image(box.detach()), False
 
     def _classify_phone_use(self, bbox):
-        predicted_bbox = ip.pre_process(bbox)
+        """Classifies the use of a cell phone."""
 
+        # Preprocess the image
+        predicted_bbox = ip.pre_process(bbox)
         transform = T.Compose([
             T.ToTensor(),
             T.Normalize(mean=[0.5, 0.5, 0.5],
@@ -60,11 +67,9 @@ class StackModels():
         predicted_bbox = transform(predicted_bbox)
         predicted_bbox = predicted_bbox.to(torch.device('mps')).float().unsqueeze(0)
 
+        # Run the classification model
         outputs = self.classification_model(predicted_bbox)
         return True if outputs.item() < 0.5 else False
     
     def _alert_user(self):
         print("DING DING DING")
-        pass
-
-

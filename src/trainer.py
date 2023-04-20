@@ -121,6 +121,7 @@ class Trainer(object):
         self._set_seed(seed)
         self.n_epochs = n_epochs
         best_loss = 1_000_000
+        
         for epoch in range(self.n_epochs):
             # Train the model
             loss = self._mini_batch(validation=False)
@@ -147,11 +148,10 @@ class Trainer(object):
                                     global_step=epoch)
 
         if self.writer:
-            # Flushes the writer
             self.writer.flush()
     
     def save_checkpoint(self, filename):
-        # Builds dictionary with all elements for resuming training
+        """Save model state and optimizer state to file."""
         checkpoint = {
             'epoch': self.completed_epochs,
             'model_state_dict': self.model.state_dict(),
@@ -163,7 +163,7 @@ class Trainer(object):
         torch.save(checkpoint, filename)
 
     def load_checkpoint(self, filename, continue_train=True):
-        # Loads dictionary
+        """Load model state and optimizer state from file."""
         checkpoint = torch.load(filename)
 
         # Restore state for model and optimizer

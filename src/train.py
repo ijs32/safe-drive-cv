@@ -1,4 +1,4 @@
-import os, sys, torch.nn as nn, torch.optim as optim, torchvision.transforms as T
+import os, torch.nn as nn, torch.optim as optim, torchvision.transforms as T
 from classification_model import NSASpyware
 from dataset import ImgDataset
 from random import shuffle
@@ -13,14 +13,14 @@ def main():
         images = [file.name for file in dir]
         shuffle(images)
 
+    train_images = images[:3800]
+    val_images = images[3800:]
+
     transform = T.Compose([
         T.ToTensor(),
         T.Normalize(mean=[0.5, 0.5, 0.5],
                     std=[0.5, 0.5, 0.5])
     ])
-
-    train_images = images[:3800]
-    val_images = images[3800:]
 
     image_train_dataset = ImgDataset(train_images, transform)
     image_val_dataset = ImgDataset(val_images, transform)
@@ -45,5 +45,4 @@ def main():
     model_trainer.train(epochs, seed)
 
 if __name__ == '__main__':
-
     main()
